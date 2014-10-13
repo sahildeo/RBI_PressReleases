@@ -1,0 +1,18 @@
+RBI Reference Rate for US $ and Euro
+August 25, 2003
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.45.8600 and the
+Reference Rate for Euro is Rs.49.8800 on August 25, 2003. The corresponding rates for the
+previous day (August 22, 2003 ) were Rs.45.8600 and Rs.50.0100 respectively. Based on the
+Reference Rate for US dollar and middle rates of the cross currency quotes at 12 noon, the
+exchange rates of GBP and Japanese Yen against the rupee are:
+Date Currency
+1 GBP 100 YEN
+72.2685 38.91
+August 22, 2003
+72.2043 38.9900
+August 25, 2003
+Note : The reference rate is based on 12 noon rates of a few select banks in Mumbai. The SDR-
+Rupee rate will be based on this rate.
+P.V. Sadanandan
+Manager
+Press Release : 2003-2004/263

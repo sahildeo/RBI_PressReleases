@@ -1,0 +1,18 @@
+Cheque Processing Systems
+Successfully roll over to Year 2000
+January 1, 2000
+cheque processing systems at Mumbai, New Delhi, Chennai and Calcutta continued to
+operate normally. The centres commenced the normal operations at around 19:00 hours
+associated peripherals like the console, the terminals, the printers and the reader sorter
+machines were active. The centres handled the normal volume of cheques and other at
+Release : 1999-2000/854
+Press 
+General Manager
+Alpana Killawala
+complaint status of the major cheque processing systems in India.
+With this success, the banks and their customers have been reassured of the Y2K
+millennium.
+par instruments amounting to 10 lakh (Rs 4700 crores) during the roll over to the
+the hardware, the operating system, the cheque processing application software and
+and successfully rolled over to the Year 2000 without any disruption. During the rollover,
+On December 31, 1999 the state-of-the-art MICR (Magnetic Ink Character Recognition)

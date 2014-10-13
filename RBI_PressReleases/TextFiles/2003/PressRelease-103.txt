@@ -1,0 +1,100 @@
+Reserve Bank of India – Bulletin
+Weekly Statistical Supplement – Extract
+December 6, 2003
+1. Reserve Bank of India - Liabilities and Assets
+(Rs.crore)
+2002 2003 Variation
+Item
+Nov. 29 Nov. 21 Nov. 28# Week Year
+1 2 3 4 5 6
+Loans and advances
+Central Government 101 — — — –101
+State Governments 4,157 6,342 5,883 –459 1,726
+(1) Includes foreign securities, balances held abroad and investments in foreign shares/bonds.
+(2) Effective October 17, 1990, gold is valued close to international market price.
+(3) Excludes investments in foreign shares and bonds and in Government of India rupee securities.
+2. Foreign Exchange Reserves
+Variation over
+Item
+As on Nov. 28, Week End-March End-December Year
+2003 2003 2002
+Rs. US$ Rs. US$ Rs. US$ Rs. US$ Rs. US$
+Crore Mn. Crore Mn. Crore Mn. Crore Mn. Crore Mn.
+1 2 3 4 5 6 7 8 9 10 11
+Total Reserves 4,41,109 96,071 4,122 698 82,829 20,643 1,02,760 25,626 1,18,017 29,146
+of which :
+(a)Foreign Currency Assets 4,23,328 92,148 4,122 698* 81,852 20,258 1,01,554 25,154 1,16,137 28,508
+(b)Gold 17,768 3,920 — — 983 386 1,226 476 1,899 642
+(c) SDRs 13 3 –– — –6 –1 –20 –4 –19 –4
+Memo Item : RTP** 5,601 1,219 34 4 2,411 547 2,420 557 2,476 572
+* : Foreign currency assets expressed in US dollar terms include the effect of appreciation/depreciation of non-US currencies (such as Euro,
+Sterling, Yen) held in reserves. For details, please refer to the Current Statistics section of the RBI Bulletin.
+** : Foreign exchange reserves do not include India's Reserve Tranche Position (RTP) with the International Monetary Fund (IMF).
+RTP may change, from time to time, due to India's transactions under the Financial Transaction Plan with the IMF as well as changes in SDR
+exchange ratesvis-a-vis rupee and US dollar.
+3. Scheduled Commercial Banks - Business in India
+(Rs. crore)
+Outstanding Variation over
+Item as on 2003 Fortnight Financial year so far Year-on-year
+Nov. 14# 2002-2003 2003-2004 2002 2003
+1 2 3 4 5 6 7
+Liabilities to Others
+Aggregate deposits @ 13,92,427 1,218 1,42,816 1,11,574 1,90,176 1,46,251
+(0.1) (12.9) (8.7) (18.0) (11.7)
+[13.5] [10.5] [18.8] [13.7]
+Demand 1,85,117 –5,814 2,430 14,827 14,548 29,638
+Time @ 12,07,310 7,032 1,40,386 96,746 1,75,627 1,16,613
+Bank Credit 7,61,926 716 91,329 32,710 1,31,824 80,874
+(0.1) (15.5) (4.5) (24.0) (11.9)
+Food Credit 35,439 –582 226 –14,040 2,968 –18,766
+Non-food credit 7,26,487 1,298 91,103 46,751 1,28,856 99,639
+@ : Includes Rs.25,662 crore on account of proceeds from India Millennium Deposits (IMDs), since November 17, 2000. Data also reflect
+redemption of Resurgent India Bonds (RIBs) of Rs.22,693 crore, since October 1, 2003. Figures in italics are percentage variations net of RIBs and
+IMDs as the case may be.
+5. Accommodation Provided by Scheduled Commercial Banks to Commercial Sector in the form of Bank
+Credit and Investments in Shares/Debentures/Bonds/Commercial Paper etc.
+(Rs. crore)
+2003 - 2004 2002 - 2003
+Outstanding Variations Outstanding VariationsItem
+as on 2003 (3) - (2) as on 2002 (6) - (5)
+Mar. 21 Nov. 14 Mar. 22 Nov. 15
+1 2 3 4 5 6 7
+4. Total (1B + 2 + 3)
+7,72,695 8,17,815 45,120 6,17,650 7,17,154 99,504
+@ : Upto October 31, 2003. + : Upto November 1, 2002. ++ : Upto October 31, 2002.
+Notes :
+1. Data on investments are based on Statutory Section 42(2) Returns.
+2. Figures in brackets are percentage variations.
+3. Includes the impact of mergers since May 3, 2002.
+7. Money Stock : Components and Sources
+(Rs. crore)
+Outstanding ason Variation over
+Financial year so far Year-on-year
+Fortnight
+2003 2002-2003 2003-2004 2002 2003
+Item Mar. 31# Nov. 14# Amount % Amount % Amount % Amount % Amount %
+1 2 3 4 5 6 7 8 9 10 11 12 13
+M3 17,25,222 18,68,922 4,253 0.2 1,71,773 11.5 1,43,700 8.3 2,33,418 16.2 1,98,795 11.9
+[16,95,551] [1,36,062] [9.1] [1,97,707] [13.8]
+Components (i+ii+iii+iv)
+(i) Currency with the Public 2,70,983 2,98,901 4,483 1.5 23,804 9.9 27,918 10.3 29,064 12.3 34,302 13.0
+(ii) Demand deposits with banks 1,98,602 2,13,106 –5,795 –2.6 1,098 0.6 14,505 7.3 16,344 10.0 32,809 18.2
+(iii)Time deposits with banks @ 12,52,396 13,52,819 7,133 0.5 1,46,117 13.6 1,00,423 8.0 1,87,144 18.1 1,31,189 10.7
+[12,22,725] [1,10,406] [10.3] [1,51,433] [14.6]
+(iv) "Other" deposits with Reserve 3,242 4,097 –1,568 –27.7 753 26.4 854 26.3 866 31.7 494 13.7
+Bank
+Sources (i+ii+iii+iv-v)
+(i) Net Bank credit to Government 6,78,059 7,21,134 4,217 0.6 57,420 9.7 43,075 6.4 71,102 12.3 74,149 11.5
+(a+b)
+(a) Reserve Bank 1,20,679 64,353 –6,857 –9.6 –21,239 –14.0 –56,326 –46.7 –33,143 –20.2 –66,586 –50.9
+(b) Other Banks 5,57,379 6,56,781 11,074 1.7 78,659 18.0 99,402 17.8 1,04,245 25.3 1,40,735 27.3
+(ii) Bank credit to commercial 9,06,612 9,43,304 –299 — 88,186 11.6 36,692 4.0 1,36,755 19.2 95,471 11.3
+sector (a+b)
+(a) Reserve Bank 3,048 2,075 –824 –28.4 –2,964 –50.0 –973 –31.9 –4,854 –62.1 –889 –30.0
+(b) Other Banks 9,03,564 9,41,229 525 0.1 91,150 12.1 37,665 4.2 1,41,609 20.1 96,360 11.4
+@ : Includes Rs.25,662 crore on account of proceeds from India Millennium Deposits (IMDs), since November 17, 2000. Data also reflect redemption
+ofResurgent India Bonds (RIBs) of Rs.22,693 crore, since October 1, 2003.
+Figures in [ ] exclude the impact of mergers since May 3, 2002.
+Ajit Prasad
+Manager
+Press Release : 2003-2004/704

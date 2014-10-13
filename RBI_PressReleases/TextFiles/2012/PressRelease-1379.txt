@@ -1,0 +1,55 @@
+ 
+? ????? ? ??  PRESS RELEASE 
+ 
+?? ? ? ? ? ???? ? ? ? ? 
+RESERVE BANK OF INDIA  
+? ?? ? ? ?? ? ? ?,  ? ???? ?  ? ? ? ? ??? , ??. ??. ??. ?? ? , ? ? ?-400001 
+???? ? ? ? : www.rbi.org.in/hindi 
+_____________________________________________________________________________________________________________________ 
+Website : www.rbi.org.in 
+DEPARTMENT OF COMMUNICATION, Central Office, S.B.S.Marg, Mumbai-400001 
+? ? ?/Phone: 91 22 2266 0502  ? ?? ?/Fax: 91 22 22660358 ?- ? ?? email: helpdoc@rbi.org.in 
+ 
+May 18, 2012 
+RBI Working Paper Series : 6 / 2012 
+Evidence of Interest Rate Channel of Monetary Policy Transmission in India 
+How interest rate actions and liquidity operations of the central banks impact 
+desired objectives of monetary policy in terms of inflation and growth depends on the 
+underlying monetary transmission. During last two decades, substantial research 
+efforts have been devoted to understanding the monetary transmission mechanism, 
+especially in developed nations. In the absence of any unique mechanism, several 
+theories have been postulated and multiple channels are observed in the literature. 
+However, such exploration has been limited in emerging economies. In this context, 
+this paper provides empirical evidence of interest rate channel of monetary policy in 
+India.  
+With the development of domestic financial markets and gradual deregulation 
+of interest rates, monetary policy operating procedure in India in the recent years has 
+evolved towards greater reliance on interest rates to signal the stance of monetary 
+policy. This process is buttressed by significant evidence that policy rate changes 
+transmit through the term structure of interest rates, though the intensity of 
+transmission varies across financial markets. Following a quarterly structural vector 
+auto-regression (SVAR) model, this paper finds evidence that policy rate increases 
+have a negative effect on output growth with a lag of two quarters and a moderating 
+impact on inflation with a lag of three quarters. The overall impact persists through 8-
+10 quarters. These results are found to be robust across alternative specifications 
+with different measures of output, inflation and liquidity. Moreover, significant 
+unidirectional causality was found from policy interest rate to output, inflation and 
+various measures of liquidity except broad money (M ), underlining the importance of 
+3
+interest rate as a potent monetary policy tool. 
+The Reserve Bank of India (RBI) introduced the RBI Working Papers series in 
+March 2011. These papers present research in progress of the staff members of RBI 
+and are disseminated to elicit comments and further debate. The views expressed in 
+these papers are those of authors and not that of RBI. Comments and observations 
+may please be forwarded to authors. Citation and use of such papers should take 
+into account its provisional character.  
+ 
+ 
+     Ajit Prasad 
+Press Release : 2011-2012/1840             Assistant General Manager 
+ 
+ 
+ 
+ 
+ 
+            ????? ????????

@@ -1,0 +1,16 @@
+Liquidity Adjustment Facility : Auction Results
+The results of the RBI repo/reverse repo auctions held on September 14, 2001 are :
+Item Repo Auction Reverse Repo Auction
+(Sale of securities (Purchase of securities
+by RBI) by RBI)
+1. Applications received for
+three day repo:
+(i) Number Nil 1
+(ii) Amount N.A. 10
+(Face value in Rs. crore)
+2. Applications accepted for
+three day repo:
+(i) Number N.A. Rejected
+(ii) Amount N.A.
+(Face Value in Rs.crore)
+(iii) Cut-off Rate (per cent) N.A.

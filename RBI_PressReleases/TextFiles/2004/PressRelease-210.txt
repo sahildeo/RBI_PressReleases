@@ -1,0 +1,33 @@
+Money Market Operations as on November 05, 2004
+(Amount in Rupees crore and
+rate in per cent per annum)
+1. Call/Notice Money Market*
+ (i) Volumes
+Banks Primary Non-Bank Total
+Dealers Institutions
+Borrowings 6741.91 1854.69 8596.60
+Lendings 5683.49 214.34 2698.77 8596.60
+(ii) Interest Rates Borrowings Lendings
+(a) Weighted average rate 6.10 6.10
+(b) Range of rates 4.70- 6.30 4.70- 6.30
+2. Term Money Market*
+Volume(Turnover) Range of Rates
+Borrowings 753.50 5.45- 6.75
+Lendings 753.50 5.45- 6.75
+3. Standing Liquidity Facility Availed from RBI $
+Amount (Outstanding) Rate of Interest
+416.78 at Repo Rate
+4. Liquidity Adjustment Facility
+Amount Accepted Rate
+Repo
+3 Day 3940 6.00
+Amount Outstanding 3940
+Reverse Repo
+3 Day 105 4.75
+Amount Outstanding 105
+5.  RBI's OMO net sales(-)/purchases(+) 0.00
+6. Scheduled Commercial Banks' Cumulative
+Cash Balances with RBI as on 03/11/2004 450373.30
+(For the reporting fortnight ending 12/11/2004)
+* Data covers 90-95 per cent of total transactions reported by participants.
+$ Data relates to Mumbai center

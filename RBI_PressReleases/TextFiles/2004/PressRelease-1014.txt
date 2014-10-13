@@ -1,0 +1,35 @@
+ 
+Liquidity Adjustment Facility : Auction Results
+The results of the RBI repo/reverse repo auctions held on April 19, 2004.
+Amount in face value in Rs. crore)
+A) 7 Day *Repo Repo Auction  (/Sale of Securities by
+RBI)
+1.Applications received for Seven day repo :
+44
+(i)  Number
+27065
+(ii) Amount
+2. Applications accepted for Seven day repo :
+44
+(i) Number
+27065
+(ii)   Amount
+(iii) Cut-off Rate (per cent) 4.5
+B) Fortnightly Repo (Variable) Repo Auction  (Sale of Securities by
+RBI)
+1.   Applications received for 14 day repo :
+(i)  \ Number
+14
+(ii) Amount
+6335
+2.  Applications accepted for 14 day repo :
+(i) Number
+14
+(ii) Amount
+6335
+(iii) Cut-off Rate (per cent)
+4.5
+(iv) Weighted average  Cut-off Rate (Per cent)
+4.5
+P.V. Sadanandan
+Press Release : 2003-2004/1238  Manager

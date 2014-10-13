@@ -1,0 +1,37 @@
+Product development and rationalisation of accounting and risk reporting Table of Contents
+
+Page
+
+·
+
+Chapter I Existing products and regulation
+
+1-6
+
+·
+
+Chapter II Issues with existing regulatory framework
+
+7-9
+
+·
+
+Chapter III Recommendations
+
+10-13
+
+·
+
+Chapter IV Road Map for development of Interest Rate Derivatives Market Annex
+
+14-16
+
+1. A framework for risk management for enabling banks to take trading positions in interest rate derivatives with linear pay offs 2. Monthly Return on Trading Derivatives Interest Rate Risk Positions 3. Back-up for Return on Trading Derivatives Interest Rate Risk Positions
+
+i
+
+Iii iv-vii
+
+Chapter I - Existing Products and Regulations Deregulation of interest rates, which helped in making financial market operations efficient and cost effective, has brought to the fore a wide array of risks faced by market participants. To manage and control these risks, instruments such as Forward Rate Agreement (FRA) and Interest Rate Swap (IRS) were introduced in July 1999 which could provide effective hedge against interest rate risks.
+
+

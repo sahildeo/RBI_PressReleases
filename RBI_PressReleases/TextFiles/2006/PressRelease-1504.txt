@@ -1,0 +1,41 @@
+Money Market Operations as on March 1, 2006
+(Amount in Rupees crore and
+rate in per cent per annum)
+I. Call Money Market
+(i) Volumes
+Banks Primary Total
+Dealers
+Borrowings 8,907.33 2,380.97 11,288.30
+Lendings 11,286.54 1.76 11,288.30
+Total 20,193.87 2,382.73 22,576.60
+(ii) Interest Rates Borrowings Lendings
+Weighted average rate 6.52 6.52
+Range of rates 5.00 – 6.80 5.00 – 6.80
+II. Notice Money Market
+ (i) Volumes
+Banks Primary Total
+Dealers
+Borrowings 8.00 0.20 8.20
+Lendings 8.20 0.00 8.20
+Total 16.20 0.20 16.40
+(ii) Interest Rates Borrowings Lendings
+Weighted average rate 6.44 6.44
+Range of rates 6.25 – 6.50 6.25 – 6.50
+III. Term Money Market
+Volume(Turnover) Range of Rates
+Borrowings 307.00 6.75 – 8.30
+Lendings 307.00 6.75 – 8.30
+Total 614.00
+IV. Standing Liquidity Facility Availed from RBI
+Amount (Outstanding) Rate of Interest
+1,020.79 At Repo Rate
+V. Liquidity Adjustment Facility
+Repo
+1  Day 4,355.00 6.50
+Amount Outstanding 4,355.00 0.00
+Reverse Repo
+1  Day 880.00 5.50
+Amount Outstanding 880.00 0.00
+VI. Scheduled Commercial Bank's Cumulative
+Cash Balances with RBI as on 27/02/2006 1,111,314.75
+(For the reporting fortnight ending 03/03/2006)

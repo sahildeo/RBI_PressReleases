@@ -1,0 +1,23 @@
+RBI Reference Rate for US $
+July 12, 1999
+   
+in Mumbai. The SDR-rupee rate will be based on this rate.
+   
+at 12.00 noon, the exchange rates of US dollar, Pound Sterling, EURO and Yen against Rs.100
+are :
+      Date Rs. 100 (Middle Rates)
+ GBP
+     
+July 05, 1999 2.3105 1.4645 2.2570 282.930
+July 12, 1999 2.3127 1.4916 2.2731 282.297
+     
+   Chhaya Raje
+Release : 1999-2000/58
+USD
+Press 
+Manager
+Yen EURO
+Currency per 
+  Based on the RBI Reference Rate for US dollar and middle rates of the cross currency quotes
+against Rs.43.39 on 9.7.1999. The reference rate is based on 12 noon rates of a few select banks
+  The Reserve Bank of India’s Reference Rate for the US dollar is Rs.43.24 on 12.7.1999 as

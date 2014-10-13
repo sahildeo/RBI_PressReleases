@@ -1,0 +1,160 @@
+June 19, 1999
+thus, be the backbone for transmission of messages, information, 
+Shri S P Talwar, Deputy Governor, 
+funded by the Reserve Bank of India as an autonomous 
+The Indian Financial Network (INFINET) is a satellite based communication network for
+a closed user group of banking and financial sector. Set up by the Reserve Bank of 
+in the form of a satellite based Very Small Aperture Terminal (VSAT) network to start
+with, this network operates in the extended C-Band and will have about 450 VSATs.
+Delivery Vs Payment (DVP), government transactions, automatic clearing house (ACH),
+network. Plans are afoot to connect about 18 major business centers through high-speed
+Explaining the background for 
+provided for speedier and more secure communication modes than the traditional
+terrestrial modes. Talwar mentioned 
+utilise the best of leading edge technology to enable the banking sector to
+achieve international standards. He hoped that with the 
+banks, would be eased to a great extent.
+one of the biggest bottlenecks of the present times, namely the lack of connectivity of
+operationalisation of INFINET,
+commitment to 
+that  the INFINET stood for the Reserve Bank's Shri 
+need speedier funds flow and safer channels for its transmission. Satellite technology
+payment system, the Deputy Governor stated that as the economic activity grew, it would
+going into VSAT based technology for the country's
+availability and accessibility.
+drawing from the strengths of each other. Their deployment will depend on suitability,
+terrestrial links. Both, VSAT and the terrestrial network of the INFINET will co-exist by
+etc. It will, in course of time, be a blend of VSAT technology and high-speed terrestrial
+bank  applications, such as, Real Time Gross Settlement (RTGS) System, mainly to inter-
+INFINET is going to be the payment systems backbone in the county which will cater
+India
+research in banking technology.
+centre for development and
+Hyderabad in 1996. The institute is fully IDRBT was set up by Reserve Bank of India at 
+Hyderabad today. Banking Technology (IDRBT) at 
+inaugurating the INFINET network at the Institute for Research and Development in
+Reserve Bank of India. He was This was stated by 
+entire banking sector in the country.
+data and funds for the
+much-required fillip in enabling information flow across branches of banks and would,
+efficient and speedy payment and settlement system. The INFINET would give the
+Reserve Bank is, therefore, moving inexorably towards the goal of providing an effective,
+systems would soon become a major focal point of policy deliberations in India. The
+regulation and supervision of electronic payment systems. The design, management, 
+The Reserve Bank of India has given high priority to bringing about efficient payment
+A satellite based communication network for financial sector
+RBI Deputy Governor Inaugurates INFINET -Focussing on the current scenario in the banking industry, the Deputy Governor stated
+service. Banks, therefore, had devoted considerable attention to the processes that help
+their products to be acceptable. Technology provided the key to such processes.
+sites of the public sector banks. 
+the network and as more institutions join the INFINET User Group. The demand for
+network. It would, therefore, be necessary to eventually get a whole transponder to be
+allocated for purposes of networking, he argued.
+operationalised, the INFINET would help
+customer service all around. He pointed out that provision of a 
+utilisation of the INFINET, 
+of bank branches as also, 
+application softwares throughout the banking 
+INFINET would give impetus to bank 
+would help not only in speedier funds transfer but also help speedier information flows .
+which would result in better supervision, monitoring at the level of controlling offices,
+cities of India should be brought under total 
+computerised branches to their service branches,
+treasury/ funds 
+utilisation of funds and connectivity to controlling
+time environment.
+70 per cent of banking business would have the advantage of access to an on-line real
+complete, and with inter-bank connectivity being provided by the INFINET, more than
+putting in place such intra-bank hierarchical networks. Once intra-bank connectivity was
+offices would aid in empirical decision making. All banks should, therefore, aim at
+department would ensure optimal 
+departments and controlling offices. Connectivity to treasury/ funds
+The next step would be to link all 
+computerisation as expeditiously as possible.
+According to the Deputy Governor, all major bank branches in commercial important
+and decision making at the corporate level.
+utilisation of funds, VSAT technology While interconnectivity would ensure optimal 
+and to interface with the banking system. This in turn would help in better housekeeping.
+computerisation to cover bulk of banking business
+industry  would be imperative. The
+standardisation of hardware, operating systems, platforms and
+computerisation only a beginning. For effective and optimal 
+country-wide network is
+reporting of government account transactions, flow of government funds and improve
+optimise the funds flow management by banks, aid decision making, enable faster
+The Deputy Governor hoped that when fully 
+communication bandwidth would increase as the users find the immense utility of the
+on INSAT 2B would need to be expanded as user institutions place more applications on
+Governor added that the one-eighth of transponder space allocated on extended C-band
+would be limited by the constraint of the transponder space allocation, the Deputy
+Mentioning that for the present, the use of the network
+Department of the Reserve Bank, at the Ministry of Finance in New Delhi and at selected
+the first phase, VSAT have been installed in all the sixteen offices of the Banking
+The Deputy Governor gave the broad details of the INFINET project and stated that in
+very convincingly articulated their needs. They appreciate prompt and value-added
+the banking industry. Customers, on their part, had also become sophisticated and had
+entities at affordable costs was the driving force behind the current heightened activity in
+that the need to provide first class service to customers of banks and other financialThe Deputy Governor also envisaged the usage of the INFINET backbone for
+information exchange between banks. Credit information on borrowers’ accounts, for
+Information that was essential for management to take decisions, the Reserve bank
+guides, circulars, etc
+quickly over the INFINET. Transmission of data for warehousing purposes and for the
+In his key-note address, Dr. A. 
+pointed out that the INFINET clearly gets the distinction of being a forerunner of an
+effect credits to accounts of customers situated anywhere within the reach of the ECS
+minimise
+Electronic Funds Transfer, 
+the Centralised Funds Enquiry System (CFES) for banks maintaining current accounts
+with the Reserve Bank and ultimately to the establishment of a Real Time Gross
+Settlement System for the country. INFINET, Dr. 
+Dr finalisation of the message formats for inter-
+standardised for use
+across banks, message transfers for a wide variety of applications that take place between
+efficiently and quickly. This may also open up
+facilities for Electronic Data Interchange (EDI) between banks and their constituents and
+Earlier, Dr. V P 
+technology  and the
+INFINET project. He stated that the 
+sector. He stated that the Institute would be the instrument for development and adoption
+of technologies in the banking sector. Its major focus would be on research, 
+Dr. 
+instance, could be shared among banks to their mutual advantage, he pointed out.
+actively involved with Indian Institute of Technology, Mumbai on a collaborative project
+Authority, data mining for the analysis of credit card transactions. The Institute was
+projects in the area of computer based training, certification management by Certification
+Gulati informed that the institute had already undertaken a number of research
+and education activities.
+development
+promotion of technology solution to improve the functioning of the banking and financial
+IDRBT's mission was to be a think-tank for the
+introduction of the role of IDRBT in furthering research in banking 
+Gulati, Director, IDRBT welcomed the guests and gave a brief
+perhaps pave the way for the introduction of E-Commerce in the country.
+banks would take place effectively, 
+banks applications was under progress. Once message formats were 
+Vasudevan mentioned that work for 
+ideal medium for transmission of both messages and funds for the RTGS system.
+Vasudevan pointed out, would be an
+Centralised Funds Management System (CFMS) comprising
+the levels of clearing related reconciliation entries at banks. This could be extended to
+would pave the way ultimately for paperless funds transfers and would greatly 
+could be one of the applications of INFINET, the Executive Director stated. This, he said,
+Electronic Clearing Service (ECS) under which corporate customers at one place could
+efficient telecommunications backbone for the banking and financial sector. Inter-city
+Vasudevan, Executive Director, Reserve bank of India
+would provide satisfaction to the ultimate users of banking services.
+used. He hoped that all these developments, taking place with the aid of technology,
+offices from branches, were some of the areas in which the INFINET could be effectively
+requirement of the Reserve Bank for offsite surveillance, information to controlling
+tends to take a long duration could get completed very communication which some times 
+., could all be transmitted through the INFINET. Inter-bankcalled (SMARS) - 
+information technology companies and smart card vendors.
+Alapana Killawala
+General Manager
+Release : 1998-99/1589
+P.S. S.P. Governor and Dr. A 
+www.speeches.rbi.org.in)
+website (URL: Director are available on RBI 
+Vasudevan, Executive Talwar, Deputy Shri Speeches of 
+Press 
+SMArt Rupee System along with the Reserve Bank, banks,

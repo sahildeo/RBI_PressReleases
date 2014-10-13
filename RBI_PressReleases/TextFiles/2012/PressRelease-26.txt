@@ -1,0 +1,39 @@
+ 
+? ? ? ?? ?  PRESS RELEASE 
+ 
+?????? ?????? ?? 
+RESERVE BANK OF INDIA  
+????? ?????,  ? ? ? ? ? ? ? ??? , ??. ??. ??. ?? ? , ? ? ?-400001 
+? ?? ? ? ? ? : www.rbi.org.in/hindi 
+_____________________________________________________________________________________________________________________ 
+Website : www.rbi.org.in 
+DEPARTMENT OF COMMUNICATION, Central Office, S.B.S.Marg, Mumbai-400001 
+? ??/Phone: 91 22 2266 0502  ? ?? ?/Fax: 91 22 22660358 ?- ? ?? email: helpdoc@rbi.org.in 
+     
+December 28, 2012 
+ISO 20022 Standard Message Formats for Next Generation RTG System 
+The Reserve Bank of India has placed on its website (http://www.rbi.org.in/) 
+today, ISO 20022 standard message formats for Next Generation Real Time Gross 
+Settlement System (NG-RTGS) for wider dissemination. 
+It was announced in the Monetary Policy Statement for 2011-2012 that the 
+Reserve Bank would implement the Next Generation Real Time Gross Settlement 
+(NG-RTGS) System having several advanced features, such as, liquidity 
+management facility, extensible markup language (XML) based messaging system 
+conforming to ISO 20022 and real time information and transaction monitoring and 
+control systems. A working group was formed with representation from banks, 
+Institute for Development and Research in Banking Technology (IDRBT), clearing 
+entities for finalising the ISO 20022 standard message formats to be used in Indian 
+Financial Sector. The message formats were subsequently validated by the ISO 
+Registration Authority. The formats are subject to change due to change in policy 
+decision for payment system application. 
+Any inquiry/doubts on the message formats may please be addressed to 
+th
+Chief General Manager-In-Charge, Department of Information Technology, 14 floor, 
+Central Office Building, Reserve Bank of India, Shahid Bhagat Singh Road, Mumbai 
+400 001 or emailed within one month. Clarifications regarding adoption of ISO 
+standard message would be placed on the RBI website separately. 
+ 
+      Ajit Prasad 
+Press Release : 2012-2013/1079                                     Assistant General  Manager 
+ 
+????? ??????????????

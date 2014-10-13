@@ -1,0 +1,18 @@
+RBI Reference Rate for US $ and Euro
+May 27, 2002
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.48.98
+and the Reference Rate for Euro is Rs.45.09 on May 27, 2002. The corresponding
+rates for the previous day (May 24, 2002) were Rs.49.0100 and Rs.45.1100
+respectively. Based on the Reference Rate for US dollar and middle rates of the
+cross currency quotes at 12 noon, the exchange rates of GBP and Japanese Yen
+against the rupee are:
+Date Currency
+1 GBP 100 YEN
+May 24, 2002 71.2556 39.22
+71.3467 39.2600
+May 27, 2002
+Note : The reference rate is based on 12 noon rates of a few select banks in Mumbai. The
+SDR-Rupee rate will be based on this rate.
+N.S.D. Lobo
+Asst. Manager
+Press Release: 2001-02/1303

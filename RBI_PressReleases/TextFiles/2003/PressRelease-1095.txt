@@ -1,0 +1,10 @@
+Reserve Bank of India - Foreign Exchange Data from  31/03/2003 to 31/03/2003
+All Figures are in USD Millions
+MERCHANT INTER BANK
+FCY/ INR FCY/ FCY FCY/ INR FCY/ FCY
+Position Spot Forwd Forwd Spot Forwd Forwd Spot Swap Forwd Spot Swap Forwd
+Date Cancel Cancel
+PURCHASES
+31/03/2003 728 295 115 9 59 55 812 2,013 248 425 350 8
+SALES
+31/03/2003 866 293 109 7 54 107 920 1,487 142 422 394 6

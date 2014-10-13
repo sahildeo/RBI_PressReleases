@@ -1,0 +1,40 @@
+ 
+19 Apr 2002 
+ 
+ 
+Reserve Bank of India - Foreign Exchange Data from 26/03/2002 to 28/03/2002 
+ 
+All Figures are in USD Millions 
+ 
+MERCHANT INTER 
+       
+  
+BANK 
+FCY/INR FCY/FCY FCY/INR FCY/FCY 
+  
+ 
+Position Spot Forwd Forwd Spot Forwd Forwd Spot Swap Forwd Spot Swap Forwd 
+  
+Date Cancel Cancel 
+  
+          
+ 
+Purchases 
+             
+ 
+26/03/2002 684 133 208 12 27 9 949 1,288 40 256 297 9   
+27/03/2002 650 157 172 9 21 9 910 2,113 131 238 280 32   
+28/03/2002 713 133 86 19 21 18 692 1,821 200 166 135 20   
+ 
+  
+             
+Sales 
+  
+            
+ 
+26/03/2002 573 330 97 16 24 12 1,233 1,474 70 264 290 17   
+27/03/2002 583 320 106 9 19 14 813 2,355 156 276 251 32 
+  
+28/03/2002 623 221 69 19 21 27 759 2,293 138 185 140 20   
+ 
+ 

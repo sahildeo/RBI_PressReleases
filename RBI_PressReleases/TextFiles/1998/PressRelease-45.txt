@@ -1,0 +1,26 @@
+RBI Reference Rate for US $
+   
+against Rs.42.53 on 22.12.1998. The reference rate is based on 12 noon rates of a few select
+Mumbai. The SDR-rupee rate will be based on this rate.
+   
+at 12.00 noon, the exchange rates of US dollar, Pound Sterling, DEM and Yen against Rs.100 
+:
+      Date Rs. 100 (Middle Rates)
+ GBP DEM
+     
+December 16, 1998 2.3502 1.3945 3.8948 272.910
+December 23, 1998 2.3502 1.3979 3.9226 273.173
+     
+   Maureen 
+Release : 1998-99/826
+USD
+Press 
+Manager
+Shankar
+Yen
+Currency per 
+are
+  Based on the RBI Reference Rate for US dollar and middle rates of the cross currency quotes
+banks in 
+  The Reserve Bank of India’s Reference Rate for the US dollar is Rs.42.55 on 23.12.1998 as
+December 23, 1998

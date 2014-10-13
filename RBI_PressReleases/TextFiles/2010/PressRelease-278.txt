@@ -1,0 +1,55 @@
+ he¥sme he¥ke¿eMeÙer  PRESS RELEASE ?  
+  
+ 
+Yeejler≥e fj ?eJeı yeQke¿ 
+RESERVE BANK OF INDIA 
+mebÆeej fJeYee‰e, keW¿Ír≥e ke¿e≥eeıue≥e, Sme.yer.Sme.cee‰eı, cegbyeFı 400001 
+ 
+________________________________________________________________________________________________________
+JesyemeeFÏ : www.rbi.org.in/hindi 
+DEPARTMENT OF COMMUNICATION, Central Office, S.B.S. Marg, Mumbai 400001 
+Website : www.rbi.org.in 
+He¿esÙe/Phone: 91 22 2266 0502 Hew¿keÃme/Fax: 91 22 2270 3279 F-cesue email: helpdoc@rbi.org.in
+ 
+ 
+November 11, 2010 
+ 
+RBI releases Approach Paper on Automated Data Flow from Banks 
+ 
+The Reserve Bank of India, today released an approach paper on automated 
+data flow (a straight through process) from the core banking solution (CBS) or other 
+IT systems of commercial banks to the Reserve Bank. The Paper was prepared by a 
+Core Group consisting of experts from banks, the Reserve Bank, the Institute for 
+Development and Research in Banking Technology (IDRBT) and the Indian Banksí 
+Association (IBA).  
+ 
+The paper, among other things, discusses the methodology to be adopted by 
+banks to classify themselves into a cluster based on its technology and process 
+dimensions.   According to the approach paper, banks would be required, in the first 
+phase, to ensure seamless flow of data from their transaction server to their 
+management information system (MIS) server and automatically generate all returns 
+from the MIS server, without any manual intervention. In the second phase, the 
+Reserve Bank would introduce a system for the flow of data from the MIS server of 
+banks in a straight through process. 
+   
+The timeline of the entire project will be determined in consultation with banks. 
+Banks are being advised to conduct a self-assessment and furnish the estimated 
+timelines for completing the first phase of the project. 
+ 
+Background 
+ 
+As the policy and decision-making processes are becoming more information 
+intensive, it is imperative to ensure quality of data and their timely submission.  With 
+a view to ensuring accuracy and integrity of data flow from the banking system to the 
+Reserve Bank, a core group comprising experts from banks, the Reserve Bank, 
+IDRBT and the IBA was constituted for preparing an approach paper on automated 
+data flow (a straight-through-process) from the core banking solution (CBS) or other 
+IT systems of commercial banks to the Reserve Bank.  The Annual Policy for 2010-
+11 announced in April 2010 had mentioned this and had stated that the approach 
+paper would be circulated among banks. 
+  
+The approach paper is available on the RBI website.   
+ 
+ 
+   Alpana Killawala 
+Press Release : 2010-2011/661               Chief General Manager 

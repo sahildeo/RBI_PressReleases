@@ -1,0 +1,14 @@
+RBI Reference Rate for US $
+October 28, 1998
+     The Reserve Bank of India’s Reference Rate for the US dollar today is Rs.42.27 on
+28.10.1998 as against Rs.42.26 on 27.10.1998. The reference rate is based on 12 noon rates of a
+few select banks in Mumbai. The SDR-rupee rate will be based on this rate.
+     Based on the RBI Reference Rate for US dollar and middle rates of the cross currency quotes
+at 12.00 noon, the exchange rates of US dollar, Pound Sterling, DEM and Yen against Rs.100 are
+:
+      Date 
+Currency per Rs. 100 (Middle Rates)
+ USD GBP DEM Yen
+October 20, 1998 2.3641 1.3969 3.8661 272.460
+October 28, 1998 2.3657 1.4127 3.9057 278.685
+Press Release: 1998-99/527

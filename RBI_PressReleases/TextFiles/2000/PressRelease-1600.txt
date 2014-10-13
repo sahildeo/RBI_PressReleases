@@ -1,0 +1,33 @@
+Subsidiary General Ledger Account Transactions in
+Government Dated Securities and Treasury Bills
+at RBI, Mumbai on 01 April 2000
+1
+Date :  01 April 2000
+  # YTM(indicative) will depend upon assumed rate of inflation
+  * Relate to the first leg of Repos
+---------------------------------------------------------------------------
+                                           NIL
+---------------------------------------------------------------------------
+       (1)                          (2)          (3)        (4)      (5)
+                                 (in Rs.Crore) Nominal              (Days)
+                                 (Face Value) Per Rs.100   (%pa)    Period
+   Nomenclature                    Amount      Price *   Repo Rate   Repo
+---------------------------------------------------------------------------
+    (Other than with RBI)
+II.  REPO Transactions *
+     Total                          5.00
+        15/06/2000                  5.00           98.1150         9.3243
+       (DD/MM/YYYY)
+   (i) 364 Day Bills (Maturity-wise)
+C. Treasury Bills
+B. State Government Securities             NIL
+     Total                         20.00
+  5.50 %  2000                     15.00           99.85          10.9110
+  5.50 %  2000                      5.00           99.85          10.9110
+A.Government of India Dated Securities
+I.  Outright Transactions
+---------------------------------------------------------------------------
+                                 (in Rs.Crore)    nominal
+                                 (Face Value)     Per Rs.100   Indicative
+   Nomenclature                  Amount           Price *        YTM %
+---------------------------------------------------------------------------

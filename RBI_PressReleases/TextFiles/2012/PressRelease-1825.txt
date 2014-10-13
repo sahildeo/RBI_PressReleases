@@ -1,0 +1,47 @@
+ 
+?  null?????   PRESS RELEASE 
+ 
+??????  null???   ? ? 
+RESERVE BANK OF INDIA  
+? ???  null???? ,  ?nullnull?  ???? ??,  ??. ??. ??. ???, ????400001 
+? ????? : www.rbi.org.in/hindi 
+_____________________________________________________________________________________________________________________
+Website : www.rbi.org.in 
+DEPARTMENT OF COMMUNICATION, Central Office, S.B.S.Marg, Mumbai?400001 
+???/Phone: 91 22 2266 0502  ? null? /Fax: 91 22 22660358  ?? ? ?? email: helpdoc@rbi.org.in
+                                                                       
+February 29, 2012
+ 
+Compilation of R-Returns : Reporting under FETERS 
+            In terms of A.P.(DIR Series) Circular No.77 dated March 13, 2004 and A.P. 
+(DIR Series) Circular No. 30 dated February 25, 2008, the Reserve Bank of India 
+had issued  guidelines to all AD Category-I banks for compilation of R-Returns and 
+reporting under the Foreign Exchange Transactions – Electronic Reporting System 
+(FETERS).   
+ On further review, the Reserve Bank has advised the AD Category-I banks
+about the following changes in reporting of R-Returns under FETERS from the next 
+financial year (i.e., transactions taking place from April 1, 2012) : 
+i) The purpose codes for classification and reporting of foreign exchange 
+transactions in FETERS have been revised. Accordingly, all AD 
+Category-I banks should report all foreign exchange transactions as per 
+the revised purpose code list with effect from first fortnight of April 2012. 
+ii) All AD banks should indicate purpose codes for all foreign exchange 
+transactions (including receipts under non-export transactions below 
+` 5 lakhs) under FETERS. The present system of reporting of non-export 
+transactions below Rs. 5 lakhs (a) on a consolidated basis in BoP file 
+and (b) submission of purpose-wise distribution of a sample of such 
+small receipt transactions (as part of R-return in the URS file under 
+FETERS), will be discontinued for transactions beyond March 31, 2012. 
+iii) The amount field in all FETERS files will be increased to 15-digit format. 
+iv) 6-digit port code will be used uniformly for reporting under FETERS. 
+[A.P. (DIR Series) Circular No.84 dated February 29, 2012] 
+ 
+ 
+ 
+Ajit Prasad 
+Press Release : 2011-2012/1393                                Assistant General Manager 
+ 
+Related Notification 
+Feb 29, 2012 Compilation of R-Returns: Reporting under FETERS
+ 
+?nullnull???nullnullnull??null

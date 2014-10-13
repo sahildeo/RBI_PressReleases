@@ -1,0 +1,19 @@
+RBI Reference Rate for US $ and Euro
+February 20, 2003
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.47.7100
+and the Reference Rate for Euro is Rs.51.3500 on February 20, 2003. The
+corresponding rates for the previous day (February 19, 2003 ) were Rs.47.7000 and
+Rs.51.1700 respectively. Based on the Reference Rate for US dollar and middle rates
+of the cross currency quotes at 12 noon, the exchange rates of GBP and Japanese Yen
+against the rupee are:
+Date        Currency
+1 GBP 100 YEN
+February 19, 2003
+76.0600 40.07
+February 20, 2003
+76.3622 40.1000
+Note : The reference rate is based on 12 noon rates of a few select banks in  Mumbai.  The
+SDR-Rupee rate will be based on this rate.
+P. V. Sadanandan
+Manager
+Press Release : 2002-03/874

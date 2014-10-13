@@ -1,0 +1,51 @@
+ 
+? ?  ??????  PRESS RELEASE 
+ 
+?????? ????  ?? ? ? 
+RESERVE BANK OF INDIA  
+? ???  ?????,  ????   ???? ?? ?? ,  ??. ??. ??. ???, ??   ????400001 
+???? ? ? : www.rbi.org.in/hindi 
+________________________________________________________________________________________________________
+Website : www.rbi.org.in 
+DEPARTMENT OF COMMUNICATION, Central Office, S.B.S.Marg, Mumbai?400001 
+???/Phone: 91 22 2266 0502  ? ???/Fax: 91 22 2266 0358  ?? ? ? email: helpdoc@rbi.org.in 
+ 
+March 17, 2011 
+ 
+Interest Rate Futures on 91-Day Treasury Bills - 
+Methodology for computing the weighted average discount yield  
+ 
+ 
+The amendment directions, issued by the Reserve Bank of India (RBI) on 
+March 07, 2011, permitting trading of Interest Rate Futures (IRFs) on 91-Day 
+Treasury Bills specifies that the final settlement price of the futures contract shall be 
+based on the weighted average price/yield obtained in the weekly auction of the 91-
+Day Treasury Bills on the date of expiry of the contract. 
+ 
+In this regard, it was decided by the RBI-SEBI Standing Technical Committee 
+on Currency and Interest Rate Futures that the methodology of computation and 
+dissemination of the weighted average discount yield would be publicly disclosed by 
+RBI. 
+ 
+Accordingly, for the purpose of final settlement of 91-Day T-Bill Futures, SEBI 
+recognized stock exchanges may use the weighted average price obtained from the 
+weekly auction of 91-day Treasury Bills on the day of expiry of the contract (notified 
+by the RBI in its press release announcing the auction results of the day) for arriving 
+at the weighted average discount yield. The formula for arriving at the weighted 
+average discount yield shall be as follows: 
+ 
+100 - WAP 360
+WAY = X
+90
+100
+ 
+WAY = weighted average discount yield; 
+ 
+WAP = weighted average price obtained from the weekly auction of 91-day Treasury Bills on the day 
+of expiry of the contract (notified by the RBI in its press release announcing the auction results of the 
+day) 
+   
+Ajit Prasad 
+Assistant General Manager 
+Press Release : 2010-2011/ 1334 
+??null???????

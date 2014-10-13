@@ -1,0 +1,74 @@
+ 
+? ?  ??????  PRESS RELEASE 
+ 
+?????? null???   ? ? 
+RESERVE BANK OF INDIA  
+? ???  null???? ,  ??null?  ???? ??,  ??. ??. ??. ???, ????400001 
+? ????? : www.rbi.org.in/hindi 
+_____________________________________________________________________________________________________________________
+Website : www.rbi.org.in 
+DEPARTMENT OF COMMUNICATION, Central Office, S.B.S.Marg, Mumbai?400001 
+???/Phone: 91 22 2266 0502  ? null? /Fax: 91 22 22660358  ?? ? ?? email: helpdoc@rbi.org.in
+ 
+May 8, 2013 
+RBI Working Paper Series 4 /2013  
+Monetary Policy Transmission Faster When Monetary System is in Deficit Mode 
+The Reserve Bank of India today placed on its website a Working Paper titled 
+“Financial Development and Monetary Policy Transmission across Financial 
+Markets: What Do Daily Data tell for India?” under the RBI Working Paper Series. 
+The paper has been authored by Dr. Partha Ray and Shri Edwin Prabu. 
+Developed and integrated financial markets are pre-requisites for effective and 
+credible transmission of monetary policy impulses. The more integrated financial 
+markets are, in all likelihood the more would be the strength of monetary 
+transmission across financial markets. It is in this context that this study looks into the 
+extent of market integration and its implication for monetary policy taking the daily 
+data for the period from January 2005 until November 2012.  
+In specific terms, the paper  analyses two distinct but inter-related issues:       
+(a) the extent of integration among different segments of financial markets; and        
+(b) impact of monetary policy on financial markets. The markets considered are:       
+(i) money market (comprising the call money, the collateralised borrowing and 
+lending obligation (CBLO) and the market repo markets); (ii) bond market (comprising 
+Government securities and corporate bonds markets); (iii) forex market (proxied by 
+exchange rate);  and (iv) stock market (viz., NSE Nifty).  
+Using a structural vector autoregression (SVAR) model and imposing 
+identifying restrictions from behavioral patterns of the Indian financial markets, the 
+study finds that the impact of monetary policy on the financial markets differs 
+considerably across four periods classified based on the liquidity position in the 
+system. The transmission of monetary policy works well in the call money rate, as it is 
+impacted immediately with robustness. As regards other financial market variables, 
+except for the stock market, the study could find evidence of transmission from the 
+monetary policy shocks.  
+Within the sample period of 2005-12, the study finds a distinct pattern of 
+impact of monetary policy on financial markets depending on the stance of the 
+monetary policy (i.e., whether it is expansionary or contractionary). The following 
+results are highlighted in particular: 
+• First, the transmission was swift and persistent for the period June 2010 to 
+November 2012, when the liquidity was in deficit mode and the monetary policy 
+was tightened.  
+ 
+?nullnull???nullnullnull??2 
+ 
+ 
+• Second, the transmission was also exhibited in the period January 2005 to 
+November 2006, when the liquidity was in surplus mode but monetary policy 
+was tightened due to inflationary pressures.  
+• Third, transmission was not on the expected lines for December 2006 to 
+November 2008 period and December 2008 to May 2010 period, perhaps on 
+account of measures initiated during global financial crisis.  
+The evidence thus indicates that monetary policy transmission to financial 
+markets in India is asymmetrical – it is faster and persistent when the monetary 
+system is in deficit mode, than when it is in expansionary phase. 
+The Reserve Bank of India introduced the RBI Working Papers series in 
+March 2011. These papers present research in progress of the staff members of the 
+Reserve Bank and are disseminated to elicit comments and further debate. The 
+views expressed in these papers are those of authors and not those of the Reserve 
+Bank of India. Comments and observations may kindly be forwarded to authors. 
+Citation and use of such papers should take into account its provisional character.  
+ 
+ 
+              
+         Sangeeta Das 
+Press Release : 2012-2013/1862                                         Director 
+ 
+ 
+ 

@@ -1,0 +1,17 @@
+RBI Reference Rate for US $ and Euro
+April 21, 2003
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.47.3500
+and the Reference Rate for Euro is Rs.51.5000 on April 21, 2003. The corresponding
+rates for the previous day (April 17, 2003) were Rs.47.3700 and Rs.51.8200
+respectively. Based on the Reference Rate for US dollar and middle rates of the cross
+currency quotes at 12 noon, the exchange rates of GBP and Japanese Yen against the
+rupee are:
+Date Currency
+1 GBP 100 YEN
+April  17, 2003 74.9322 39.79
+April  21, 2003 74.4887 39.4300
+Note : The reference rate is based on 12 noon rates of a few select banks in Mumbai. The
+SDR-Rupee rate will be based on this rate.
+P. V. Sadanandan
+Manager
+Press Release : 2002-2003/1078

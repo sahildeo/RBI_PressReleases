@@ -1,0 +1,31 @@
+Government Dated Securities and Treasury Bills
+at RBI, Mumbai on 13 July 2000
+Date :  13 July 2000
+  # YTM(indicative) will depend upon assumed rate of inflation
+  * Relate to the first leg of Repos
+--------------------------------------------------------------------------
+                                           NIL
+---------------------------------------------------------------------------
+       (1)                          (2)          (3)        (4)      (5)
+                                 (in Rs.Crore) Nominal              (Days)
+                                 (Face Value) Per Rs.100   (%pa)    Period
+   Nomenclature                    Amount      Price *   Repo Rate   Repo
+---------------------------------------------------------------------------
+C. Treasury Bills                          NIL
+                                           NIL
+B. State Government Securities
+     Total                         65.00
+ 11.15 %  2002                     50.00          102.80           9.6527
+          Contract Date : July 13, 2000
+ 11.99 %  2009                      5.00          106.47          10.8195
+          Contract Date : July 12, 2000
+ 11.99 %  2009                     10.00          106.43          10.8266
+          Contract Date : July 11, 2000
+A. Government of India Dated Securities
+I.  Outright Transactions
+---------------------------------------------------------------------------
+                                 (in Rs.Crore)    nominal
+                                 (Face Value)     Per Rs.100   Indicative
+   Nomenclature                  Amount           Price *        YTM %
+---------------------------------------------------------------------------
+Subsidiary General Ledger Account Transactions in

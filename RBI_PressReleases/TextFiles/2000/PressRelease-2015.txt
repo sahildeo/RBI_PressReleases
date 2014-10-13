@@ -1,0 +1,24 @@
+RBI Reference Rate for US $
+January 25, 2000
+   
+against Rs.43.64 on 24.01.2000. The reference rate is based on 12 noon rates of a few select
+banks in Mumbai. The SDR-rupee rate will be based on this rate.
+   
+at 12.00 noon, the exchange rates of US dollar, Pound Sterling, EURO and Yen against Rs.100
+are :
+      Date Rs. 100 (Middle Rates)
+ GBP
+     
+January 18, 2000 2.2952 1.4049 2.2722 240.880
+January 25, 2000 2.2946 1.3901 2.2722 242.692
+     
+   
+Release : 1999-2000/971
+USD
+Press 
+Manager
+Rupambara Padhi
+Yen EURO
+Currency per 
+  Based on the RBI Reference Rate for US dollar and middle rates of the cross currency quotes
+  The Reserve Bank of India’s Reference Rate for the US dollar is Rs.43.58 on 25.01.2000 as

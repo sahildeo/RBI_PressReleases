@@ -1,0 +1,17 @@
+RBI Reference Rate for US $ and Euro
+July 28 , 2003
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.46.1300
+and the Reference Rate for Euro is Rs.52.8700 on July 28, 2003. The corresponding
+rates for the previous day (July 25, 2003) were Rs.46.1600 and Rs.52.8800
+respectively. Based on the Reference Rate for US dollar and middle rates of the cross
+currency quotes at 12 noon, the exchange rates of GBP and Japanese Yen against the
+rupee are:
+Date Currency
+1 GBP 100 YEN
+July 25, 2003 74.5115 38.71
+July 28, 2003 74.6291 38.7200
+Note : The reference rate is based on 12 noon rates of a few select banks in Mumbai. The
+SDR-Rupee rate will be based on this rate.
+Ajit Prasad
+Manager
+Press Release : 2003-2004/128

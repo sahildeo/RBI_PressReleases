@@ -1,0 +1,96 @@
+under the Chairmanship of Deputy Governor, S.P. 
+development of a modern and efficient Payments and Settlement system for the country was held
+1. Dr. A.Vasudevan, Executive Director, Reserve Bank of India
+2. Shri 
+3. Shri Rashid 
+4. Dr.R.H.Patil, Managing Director, National Stock Exchange
+5. Shri 
+6. Shri David P.Conner, Chief Executive Officer-India, 
+7. Shri 
+8. Shri 
+9. Shri D.S.Pendse, Managing Director, 
+The meeting was also attended by Shri S.R. Department of
+its core.
+• 
+• 
+• 
+• 
+• 
+Chennai, Calcutta and New Delhi.
+• Initiation of the process for appointment of a consultant to assist in the implementation of
+1.
+and Credit Policy for the Year 1999-2000.
+2. will be a service provider
+India.Selvam, Chairman, Indian Banks Association
+between the origin of the transaction and its settlement in the books of the Reserve Bank of
+The Council agreed to the adoption of Y-topology, viz., there 
+of 15 to 18 months as stipulated by the Governor, Reserve Bank of India in the Monetary
+emphasised the introduction of Real Time Gross Settlement System within a time frame It 
+The Council took the following decisions after a discussion on each of the above initiatives:
+Real Time Gross Settlement System (RTGS).
+the four metropolitan cities viz., Mumbai, 
+Replacement of MICR solutions with the state-of-the-art Y2K compliant clearing systems at
+Design of the Message formats for the identified applications;
+Standardisation of Message Formats;
+Scheduling the implementation of the identified inter-bank applications on the INFINET;
+Operationalisation of the Indian Financial Network - INFINET;
+last 10-12 months. These initiatives included, among others, the following:
+Systems Advisory Committee of the Reserve Bank, and appreciated the initiatives taken in the
+The council reviewed the work already done by the Payment Systems Group and the Payment
+and settlements system for the country, with the proposed Real Time Gross Settlement System as
+policy parameters for designing and developing an integrated, state of the art, robust payments
+The National Payment Council was constituted on May 26, 1999 with the focus on the broad
+Information Technology as the Member-Secretary of the Council.
+Mittal, Chief General Manager, 
+Tata Finance Ltd.
+Gahrotra, Senior Executive Director, Securities and Exchanges Board of India O.P. 
+H.N.Sinor, Managing Director, ICICI Banking Corporation Ltd.
+Citi Bank
+V.Janakiraman, Deputy Managing Director, State Bank of India
+Jilani, Chairman and Managing Director, Punjab National Bank
+A.T.Panir 
+on July 22, 1999, in Mumbai. The members who attended the meeting included:
+Talwar to guide the design and Shri 
+The first meeting of the National Payments Council constituted by the Reserve Bank of India
+National Payments Council3.
+Centre, Mumbai, as the gateway to RTGS.
+4. Upgradation
+in the Banking Sector. 
+priority basis in co-ordination with the Chairmen of Banks and Heads of the Computer
+5.
+The Council was of the view that it is necessary to reduce time lags in the collection of
+in  an
+expeditious manner.
+6. The Council constituted a number of permanent Task forces. Each Task Force would be
+headed 
+Heads of the Departments concerned within the Reserve Bank.
+• 
+• 
+• 
+• 
+• Systems and Procedures related issues
+7. The Council strongly recommended that all applications should be 
+RTGS should be operated without human intervention in a secured environment once the
+8. The Council decided that it should meet once in a quarter to deliberate on issues of
+Rupambara Padhi
+Manager
+Release : 1999-2000/114
+Press 
+immediate and institutional importance.
+message is received at the gateway.
+standardised and that
+Payments Council in its policy making.
+The Task Forces will study the various issues connected with the above and assist the National
+Technology Related Issues;
+Legal Issues;
+Payment and Settlement Systems Oversight;
+Monetary Policy and related issues;
+by  a member of the National Payments Council and assisted by the respective
+undertaken about the measures that could be taken to address this problem 
+cheques. The Council suggested that a detailed study be outstation as well as local 
+The Council felt that all payment and settlement systems should be of service to customers.
+Policy and Planning Departments.
+Those which are of immediate nature should be implemented on a
+The Council endorsed the recommendations of the Committee on Technology 
+solution available at National Clearing 
+The Council also agreed to the use of the Y2K complaint state of the art technology

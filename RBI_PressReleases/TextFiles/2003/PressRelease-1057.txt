@@ -1,0 +1,17 @@
+RBI Reference Rate for US $ and Euro
+May 13, 2003
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.47.1700
+and the Reference Rate for Euro is Rs.54.2700 on May 13, 2003. The corresponding
+rates for the previous day (May 12, 2003) were Rs.47.1600 and Rs.54.5300
+respectively. Based on the Reference Rate for US dollar and middle rates of the cross
+currency quotes at 12 noon, the exchange rates of GBP and Japanese Yen against the
+rupee are:
+Date Currency
+1 GBP 100 YEN
+May 12, 2003 75.9017 40.36
+May 13, 2003 75.8659 40.4500
+Note : The reference rate is based on 12 noon rates of a few select banks in Mumbai. The
+SDR-Rupee rate will be based on this rate.
+P. V. Sadanandan
+Manager
+Press Release : 2002-2003/1153

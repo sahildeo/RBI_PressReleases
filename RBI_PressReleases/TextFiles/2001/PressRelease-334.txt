@@ -1,0 +1,19 @@
+Liquidity Adjustment Facility : Auction Results
+October 18, 2001
+The results of the RBI Repo/Reverse Repo auctions held on October 18, 2001 are :
+Item Repo Auction Reverse Repo Auction
+(Sale of securities (Purchase of securities
+by RBI) by RBI)
+1. Applications received for
+one day repo period:
+(i) Number Nil 23
+(ii) Amount NA 3610
+(Face value in Rs. crore)
+2. Applications accepted for
+one day repo period:
+(i) Number Nil 20
+(ii) Amount NA 3580
+(Face Value in Rs.crore)
+(iii) Cut-off Rate (per cent) NA 8.50
+3. Weighted average Cut-off Rate NA 8.5010
+(per cent)

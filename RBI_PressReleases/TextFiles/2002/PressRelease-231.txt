@@ -1,0 +1,18 @@
+RBI Reference Rate for US $ and Euro
+November 13, 2002
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.48.2800 and the
+Reference Rate for Euro is Rs.48.8300 on November 13, 2002. The corresponding rates for
+the previous day (November 12, 2002) were Rs.48.2700 and Rs.48.7300 respectively. Based
+on the Reference Rate for US dollar and middle rates of the cross currency quotes at 12 noon,
+the exchange rates of GBP and Japanese Yen against the rupee are:
+Date Currency
+1 GBP 100 YEN
+76.5731 40.31
+November 12, 2002
+76.7290 40.3800
+November 13, 2002
+Note : The reference rate is based on 12 noon rates of a few select banks in Mumbai.  The SDR-
+Rupee rate will be based on this rate.
+Ajit Prasad
+Manager
+Press Release : 2002-03/498

@@ -1,0 +1,18 @@
+RBI Reference Rate for US $ and Euro
+September 25, 2002
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.48.4100 and the
+Reference Rate for Euro is Rs.47.5100 on September 25, 2002. The corresponding rates for
+the previous day (September 24, 2002) were Rs.48.4100 and Rs.47.3200 respectively. Based
+on the Reference Rate for US dollar and middle rates of the cross currency quotes at 12 noon,
+the exchange rates of GBP and Japanese Yen against the rupee are:
+Date Currency
+1 GBP 100 YEN
+75.1420 39.14
+September 24, 2002
+75.5535 39.4800
+September 25, 2002
+Note : The reference rate is based on 12 noon rates of a few select banks in Mumbai.  The SDR-
+Rupee rate will be based on this rate.
+P.V. Sadanandan
+Manager
+Press Release : 2002-03/324

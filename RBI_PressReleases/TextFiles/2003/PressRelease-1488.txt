@@ -1,0 +1,20 @@
+ADR/GDR Sale Proceeds can be held in Foreign Currency
+February 1, 2003
+As a measure of further liberalisation and in order to encourage Indian Companies
+listing of American Depository Receipts (ADRs)/Global Depository Receipts (GDRs) in the
+overseas exchange, it has been decided to grant general permission as under :
+1. In respect of sponsored ADRs/GDRs which have the approval of Foreign Investment
+Promotion Board (FIPB), residents who offer their share holding in the company for
+conversion to ADRs/GDRs would be permitted to credit the sale proceeds to their
+Exchange Earners Foreign Currency (EEFC)/Resident Foreign Currency (Domestic)
+{RFC (D)} account in foreign currency or to their rupee account in India at their
+option;
+2. Disinvestments under such sponsored ADR/GDR schemes in respect of shares held
+by residents who have since become non-resident would be permitted to be credited to
+the foreign currency account abroad of the non-resident or to any of their accounts in
+India at their option.
+This facility is available until further notice.
+Operating instructions are being issued to Authorised Dealers.
+Alpana Killawala
+General Manager
+Press Release: 2002-2003/812

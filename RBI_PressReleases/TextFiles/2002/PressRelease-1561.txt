@@ -1,0 +1,18 @@
+RBI Reference Rate for US $ and Euro
+February 1, 2002
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.48.53
+and the Reference Rate for Euro is Rs.41.68 on February 1, 2002. The
+corresponding rates for the previous day (January 31, 2002) were Rs. 48.58 and
+Rs.41.90, respectively. Based on the Reference Rate for US dollar and middle rates
+of the cross currency quotes at 12 noon, the exchange rates of GBP and Japanese
+Yen against the rupee are:
+Date Currency
+1 GBP 100 YEN
+January 31, 2002
+68.7091 36.57
+February 01, 2002 68.4686 36.1400
+Note : The reference rate is based on 12 noon rates of a few select banks in
+Mumbai. The SDR-Rupee rate will be based on this rate.
+P.V. Sadanandan
+Asst. Manager
+Press Release : 2001-02/867

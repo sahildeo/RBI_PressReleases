@@ -1,0 +1,26 @@
+Money Market Operations as on December 29, 2001
+(Amount in Rupees crore and
+rate in per cent per annum)
+1. Call/Notice Money Market*
+ (i) Volumes
+Banks Primary Non-Bank Total
+Dealers Institutions
+Borrowings 7128.00 3198.00 10326.00
+Lendings 6828.00 1432.00 1810.42 10070.42
+(ii) Interest Rates Borrowings Lendings
+(a)Weighted average rate 7.86 7.90
+(b) Range of rates 6.50-  9.00 6.50-  9.00
+2 Term Money Market*
+Volume(Turnover) Range of Rates
+Borrowings -
+Lendings -
+3. Standing Liquidity Facility Availed from RBI $
+Amount (outstanding) Rate of Interest
+Normal 6977.34 at Bank Rate
+Back-Stop 49.83 9.50
+4. Liquidity Adjustment Facility
+Amount Accepted Rate
+Repo
+Day 0.00
+Amount Outstanding 0.00
+Reverse Repo

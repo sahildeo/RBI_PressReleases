@@ -1,0 +1,19 @@
+RBI Reference Rate for US $ and Euro
+November 14, 2003
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.45.3500 and the
+Reference Rate for Euro is Rs.53.4300 on November 14, 2003. The corresponding rates for the
+previous day (November 13, 2003) were Rs.45.3900 and Rs.52.8600 respectively. Based on the
+Reference Rate for US dollar and middle rates of the cross currency quotes at 12 noon, the
+exchange rates of GBP and Japanese Yen against the rupee are:
+Currency
+Date
+1 GBP 100 YEN
+76.0714 41.86
+November 13, 2003
+76.6347 41.9700
+November 14, 2003
+Note :  The reference rate is based on 12 noon rates of a few select banks in Mumbai.
+The SDR-Rupee rate will be based on this rate.
+P. V. Sadanandan
+Manager
+Press Release : 2003-2004/627

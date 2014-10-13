@@ -1,0 +1,85 @@
+` œÏ½¬¸ œÏˆÅ¸©¸›¸ú PRESS RELEASE 
+ 
+ 
+ 
+ 
+ 
+ 
+ž¸¸£÷¸ú¡¸ ¹£{¸¨¸Ä ?¸ÿˆÅ 
+œÏ½¬¸ ¬¸Ÿœ¸ˆÄÅ œÏž¸¸Š¸, ˆ½½¿ÅÍú¡¸ ˆÅ¸¡¸¸Ä¥¸¡¸, œ¸¸½¬’ ?¸¸ÁÆ¬¸ 406, Ÿ¸º¿¿ ?¸ƒÄ 400 001 
+RESERVE BANK OF INDIA  
+ûÅ¸½›¸À 2266 0502 û¾ÅÆ¬¸À 2266 0358, 2270 3279 
+www.rbi.org.in 
+ 
+www.rbi.org.in\hindi 
+PRESS RELATIONS DIVISION, Central Office, Post Box 406, Mumbai 400001 
+e-mail: helpprd@rbi.org.in 
+Phone: 2266 0502 Fax: 2266 0358,  2270 3279  
+ 
+ 
+22 -Apr, 1998 
+ 
+Management Information System (MIS)  for Monitoring Agricultural Advances  
+: Bank of Baroda Model : 
+Bank of Baroda has evolved a model system for monitoring agricultural and other advances and it is being 
+implemented on pilot basis in its Moradabad Region (Western UP Zone).  
+This MIS system has been computerized to generate pre-printed updation sheets containing basic information 
+about the existing borrowal accounts and blank formats for recording new disbursals during the intervening 
+period. Some of the branches are also sent data on magnetic media for its updation locally. The updation 
+centres receive updated data on hard copy in 2-3 days' time. Decentralization of data updation is reported to 
+have improved branch participation and quality of data significantly.  
+The data is processed on computers at regional level and the branches receive statutory reports/returns for 
+their use along with other informative reports for improving the quality of credit administration. Such Single 
+Point Periodic Updation reduces workload at branches and controlling office significantly. The time saved thus 
+is directed for improving quality of loan assets, canvassing deposit accounts and improving customer service 
+in the area.  
+Indicated below is a statement showing reports & returns which were required to be submitted earlier and the 
+status after implementation of the revised system.  
+ 
+Sr. Returns which branch is Type Frequency Time taken by an Status after 
+No. required to submit Average Branch(in implemen-
+man-days) tation 
+1 Closing Returns, Master Credit H.Y. 20 Not Required  
+Summaries of Advances and (Statutory) 
+Provision Worksheet 
+2 Credit Control Return (5,6,7) Credit H.Y. 10 Not Required  
+(Statutory) 
+3 DSB Return IV (Related to Credit Qtl. 10 Not Required  
+Advances) (Statutory) 
+4 Monitoring of Sick SSI Units Credit H.Y. 7 Not Required  
+(Statutory) 
+5 BSR 1 Credit Annual 5 Not Required  
+(Statutory) 
+6 BSR 2 Deposit Annual 5 To continue  
+(Statutory) 
+7 Demand Collection Balance Credit H.Y. 40 Not Required  
+Register (DCB) (Statutory) 
+8 Priority Sector Breakup on Credit H.Y. 10 Not Required  
+Asset Classification  
+9 Recovery Monitoring Stmt on NPAs and Potential Credit Month 24 Report Received on 
+NPAs Printed Sheet  
+10 Distribution of Credit according to Lending Rate Credit H.Y. 20 Not Required  
+11 Priority Sector O/s Bal Statement/Disb. Credit H.Y. 20 Not Required  
+12 Review Status Report Credit H.Y. 15 Not Required  
+13 NPAs and Potential NPAs statement Credit H.Y. 10 Not Required  
+14 Statement of Advances Sanctioned Credit Frntly 30 To continue  
+15 Temp. Over Draft Stmt Credit Frntly 10 To continue  
+16 Stock Inspection Report Credit Bimthly - - To continue  
+17 Qtrly. Mon. Stmt for large advances Credit Qtly - - To continue  
+18 Application Sanctioned Stmt. Under Sponsored prog Credit Month 30 To continue  
+and AAP/SAP 
+19 LBR - 1 (Credit Plan) Credit Annual 3 To continue  
+20 LBR - 2 (Disbursement) Credit Qtly 20 To continue  
+21 LBR - 3 (Recoveries) Credit H.Y. 30 To continue  
+22 Weekly Stmt on Bal Sheet Deposit Wkly 70 To continue  
+23 House Keeping Stmt Misc. Qtly 5 To continue  
+24 Distribution of deposit on Interest Rate Deposit Annual 5 To continue  
+ 
+By implementing the above, the branches will not be required to submit 12 out of 24 returns saving about 190 
+man days per year per branch of average size. At a later stage, after the system is stabilised and updation is 
+done on quarterly basis, the branches may not need to send returns at Sr.Nos.14, 20 and 21 above also as 
+the same can then be generated with the help of the updated data.  
+The data should be used by controlling offices to send information that may be required by Reserve Bank of 
+India or any other agency in relation to specific activities as the computerised system will be able to generate 
+such information.  
+ 

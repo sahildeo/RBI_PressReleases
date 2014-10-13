@@ -1,0 +1,36 @@
+Money Market Operations as on August 11, 2003
+(Amount in Rupees crore and
+rate in per cent per annum)
+1. Call/Notice Money Market*
+ (i) Volumes
+Banks Primary Non-Bank Total
+Dealers Institutions
+Borrowings 5702.50 9638.00 15340.50
+Lendings 7324.90 50.00 4777.64 12152.54
+(ii) Interest Rates Borrowings Lendings
+(a)Weighted average rate 4.93 4.97
+(b) Range of rates 3.95-  5.05 4.00-  5.10
+2. Term Money Market*
+Volume(Turnover) Range of Rates
+Borrowings 335.00 5.10-  5.40
+Lendings 300.00 5.10-  5.25
+3. Standing Liquidity Facility Availed from RBI $
+Amount (Outstanding) Rate of Interest
+Normal 1.84 at Bank Rate
+Back-Stop 0.00
+4. Liquidity Adjustment Facility
+Amount Accepted Rate
+Repo
+1 Day 17795.00 5.00
+Amount Outstanding 17795.00
+Repo Fortnightly
+Accepted (14day) 20830.00 5.00
+Outstanding 20830.00
+Reverse Repo
+1 Day 0.00
+Amount Outstanding 0.00
+5.  RBI's OMO net sales(-)/purchases(+) 0.00
+6. Scheduled Commercial Banks' Cumulative
+Cash Balances with RBI as on 08/08/2003 909981.28(For the reporting fortnight ending 08/08/2003)
+* Data covers 90-95 per cent of total transactions reported by participants.
+$ Data relates to Mumbai center.

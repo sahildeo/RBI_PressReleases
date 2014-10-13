@@ -1,0 +1,40 @@
+Subsidiary General Ledger Account Transactions
+in Government Dated Securities and Treasury Bills
+at RBI, Mumbai on 01 April 2002
+---------------------------------------------------------------------------
+ Loan  Nomenclature              Amount           Price *        YTM %
+ Code                            (Face Value)     Per Rs.100   Indicative
+                                 (in Rs.Crore)    nominal
+---------------------------------------------------------------------------
+I.  Outright Transactions
+A.Government of India Dated Securities
+"          Contract Date : April 01, 2002"
+nil
+B. State Government Securities
+                                           NIL
+C. Treasury Bills
+   (i) 14 Day Bills (Maturity-wise)
+       (DD/MM/YYYY)
+                                           NIL
+   (ii) 91 Day Bills (Maturity-wise)
+       (DD/MM/YYYY)
+                                           NIL
+   (iii) 182 Day Bills (Maturity-wise)
+       (DD/MM/YYYY)
+                                           NIL
+   (iv) 364 Day Bills (Maturity-wise)
+       (DD/MM/YYYY)
+                                           NIL
+II.  REPO Transactions *
+    (Other than with RBI)
+---------------------------------------------------------------------------
+ Loan  Nomenclature                Amount      Price *   Repo Rate   Repo
+ Code                            (Face Value) Per Rs.100   (%pa)    Period
+                                 (in Rs.Crore) Nominal              (Days)
+           (1)                      (2)          (3)        (4)      (5)
+---------------------------------------------------------------------------
+                                           NIL
+---------------------------------------------------------------------------
+  * Relate to the first leg of Repos
+  # YTM(indicative) will depend upon assumed rate of inflation
+Date :  01 April 2002

@@ -1,0 +1,57 @@
+The Second meeting of the National Payment Council was held on December 13, 1999 at the
+Reserve Bank of India, Mumbai.  The National Payment Council was  appointed by the Reserve
+Bank of India under the guidance of Deputy Governor (Shri S.P. Talwar).  The meeting was
+attended by the members, S/Shri A.T.  , Chairman, Union Bank of India, 
+, Chairman, Punjab National Bank, V. , Managing Director, State Bank of
+India, R.H. , Managing Director, National Stock Exchange, H.N. , Chairman and
+Managing Director, ICICI Bank and O.P. , Senior Executive Director, SEBI.  The
+Council deliberated on the progress made in upgradation of MICR technology at the four
+metropolitan cities by the Reserve Bank of India, setting and operationalisation of MICR cheque
+processing at 12 cities ( Ahmedabad, Amritsar, Bangalore, Baroda, Bhopal, Hyderabad, 
+Kanpur, Nagpur, Indore and  ), progress of smart card project, Indian Financial
+Network (INFINET) and Real Time Gross Settlement (RTGS).  Three presentations were made
+on , technology related issues and centralised cheque clearing for banks in
+the radius of 100 
+The Council after detailed deliberations on the issues raised at the meetings made some
+ RTGS should be introduced by October 2000 as originally envisaged by the Reserve Bank
+ High value individual transactions in RTGS will have value of Rs.1.00 lakh and above, as
+the case at present.
+ Collateralised intra-day liquidity should be provided by the Reserve Bank of India in the
+form of  sanction of limits with  terms and conditions that needs to be implemented giving
+due recognition to risk management.
+ The image technology should be introduced at four metropolitan cities before the end of the
+Year 2000; the same technology may be made available at other   where MICR
+cheque processing is in vogue.
+ In the context of the guidelines given for the introduction of debit/smart cards, standards for
+smart card for retail payment should be finalised and made operative and smart cards
+should be developed in secured environment.  There has to be an appropriate monitoring of
+smart card business transactions.  This may have to be taken up by the Reserve Bank of
+ Generic architecture for payment system presented by the task force on technology which
+involves STAR topology Networking of individual banks and give them bank-level
+standardised gateways to INFINET.
+:1999-2000/778
+Pune, 1
+PAGE 
+Press Release
+General Manager
+Alpana Killawala
+  vi.
+India.
+  v.
+centres
+  iv.
+  iii.
+  ii.
+of India
+  i.
+important recommendations.
+Kms.
+intra-day credit facility
+Coimbatore
+Jaipur,
+Gahrotra
+Sinor Patil
+Janakiraman Jilani
+Rashid Selvam Pannir
+December 13, 1999
+Second Meeting of the National Payments Council

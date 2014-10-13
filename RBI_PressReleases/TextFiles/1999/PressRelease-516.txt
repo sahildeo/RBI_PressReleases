@@ -1,0 +1,75 @@
+RBI sets up Working Group to study the recommendations
+for SMART Card based Payment System Standards
+September 7, 1999
+The Reserve Bank of India has constituted a Working Group in the Department of
+Information Technology to study the recommendations on standards for SMART Card based
+Payment Systems made by the Indian Institute of Technology, Powai.  The recommendations
+have been made in document “SMART Card based Payment System Standards” version 3.0,
+as part of the “Project SMART Rupees System (SMARS)”.
+The Project ‘SMART Rupees System (SMARS)’ is a pilot project on SMART Card
+technology in India. The project has been undertaken to examine the viability and use of
+SMART Cards as retail payment instruments within the country. The project undertaken at
+the instance of the Reserve Bank of India, is a collaborative venture in which the Indian
+Institute of Technology, Powai, the Institute for Development and Research in Banking
+Technology, Hyderabad, hardware and software vendors, and two commercial banks (State
+Bank of India and Canara Bank) are partners. The pilot phase of the project commenced on
+December 3, 1998.
+The composition of the Working Group 
+1. Dr. A.Vasudevan
+Reserve Bank of India
+2. Shri M.N.Dandekar
+Indian Banks’ Association
+3. Dr.V.P.Gulati
+Director
+Institute for Development and Research
+Hyderabad
+4. Prof.D.B.Phatak
+Department of Computer Sciences and Engineering
+Powai
+5. Shri 
+Chief General Manager
+State Bank of India
+6. Shri 
+1
+Member S.Venkatachalam
+Mumbai
+Systems and Technology
+Member K.Seshashayi
+Indian Institute of Technology
+Member
+In Banking Technology
+Member
+Mumbai
+Chief Executive and Secretary
+Member
+Executive Director
+Chairman
+is :Vice President, Information Technology
+Citibank N.A.
+7. Shri A.K.S.Rao
+Canara Bank
+8. Shri 
+Chief General Manager-in-Charge
+Department of Information Technology
+Reserve Bank of India
+The terms of reference of the Working Group are 
+1. study the various recommendations for “SMART Card based Payment System Standards”
+version 3.0 made by Project SMART Rupees System (SMARS);
+2. corroborate these standards with the international standards (ISO) and / or those prevalent
+in Europe; and
+3. examine the relevance of the remaining recommendations to the circumstances arising
+The Working Group will submit its Report by November 30, 1999.
+Alpana Killawala
+General Manager
+Release : 1999-2000/346
+2
+Press 
+from the developments in the Payment and Settlement systems in the country.
+to :
+Mumbai
+Member-Secretary S.R.Mittal
+Bangalore
+Computer Policy and Planning Department
+General Manager
+Member
+Mumbai

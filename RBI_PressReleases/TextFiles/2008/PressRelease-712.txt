@@ -1,0 +1,60 @@
+  œÏ½¬¸ œÏˆÅ¸©¸›¸ú  PRESS RELEASE ? 
+ 
+ž¸¸£÷¸ú¡¸ ¹£{¸¨¸Ä  ?¸ÿˆÅ 
+RESERVE BANK OF INDIA 
+ 
+¬¸¿ ?¸¸£ ¢¨¸ž¸¸Š¸, ˆ½¿ÅÍú¡¸ ˆÅ¸¡¸¸Ä¥¸¡¸, ‡¬¸.¤¸ú.‡¬¸.Ÿ¸¸Š¸Ä, Ÿ¸º¿¤¸ƒÄ 400001 
+¨¸½¤¸¬¸¸ƒ’ À www.rbi.org.in/hindi 
+________________________________________________________________________________________________________
+Website : www.rbi.org.in 
+DEPARTMENT OF COMMUNICATION, Central Office, S.B.S. Marg, Mumbai 400001 
+ƒ-Ÿ¸½¥¸ emailÀ helpdoc@rbi.org.in 
+ûÅ¸½›¸/Phone: 91 22 2266 0502 û¾ÅÆ¬¸/Fax: 91 22 2270 3279 
+ 
+ 
+September 5, 2008 
+ 
+RBI expands coverage of its “Database on Indian Economy (DBIE)” 
+and Change in URL for Accessing DBIE site 
+ 
+The Reserve Bank of India has further expanded the coverage of its "Database 
+on Indian Economy", an on-line database built on the data warehousing technology with 
+enhanced functionality. The coverage has been increased to include more static reports 
+on outstanding bank credit (according to place of sanction and disbursement), 
+performance of private corporate business sector, India’s external debt, forex rates and 
+assets management, ownership details of Government of India Securities. 
+ 
+The additional reports being released through the Database on Indian Economy 
+are: 
+ 
+1. State wise Outstanding Credit of SCBs According to Place of Sanction and 
+Utilisation 
+2. Performance of Non-Government Non-Financial Companies 
+3. Performance of Selected Companies according to size of Paid-up Capital 
+4. Profit Allocation, Interest-linked and Profitability Ratios According to Size of Sales 
+5. India's Short-term External Debt by Residual Maturity 
+6. India's Key External Debt Indicators 
+7. Forex Rates – Quarter end 
+8. Foreign Currency Reserve Management 
+9. Government of India Securities - Outstanding  
+10. Ownership pattern of GOI Dated securities 
+ 
+With the release of these data series, the Database on Indian Economy would 
+now have 204 static reports (subject and frequency wise), 74 subject wise and 53 
+frequency wise data query templates covering various sectors of the Indian economy. 
+ 
+ To improve the response time in accessing the data series, the internet site of 
+DBIE would now be hosted from an upgraded server. Accordingly, the URL for 
+accessing the DBIE has been changed from https://reservebank.org.in to 
+http://dbie.rbi.org.in. The Reserve Bank of India's Database on Indian Economy will 
+continue to be available on its website (www.rbi.org.in) under the Database Section as 
+earlier. 
+ 
+ Economists, statisticians, data analysts and market participants may find this site 
+more useful with the increased coverage and response time. Feedback is received 
+through a feedback link on the site. This feedback is considered valuable and helps in 
+further improving the coverage of data series in the system. 
+ 
+G. Raghuraj 
+Deputy General Manager 
+Press Release : 2008-2009/293 

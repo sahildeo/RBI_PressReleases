@@ -1,0 +1,51 @@
+ 
+? ?  ??????  PRESS RELEASE 
+ 
+?????? null???   ? ? 
+RESERVE BANK OF INDIA  
+? ???  null???? ,  ??null?  ???? ??,  ??. ??. ??. ???, ????400001 
+? ????? : www.rbi.org.in/hindi 
+_____________________________________________________________________________________________________________________
+Website : www.rbi.org.in 
+DEPARTMENT OF COMMUNICATION, Central Office, S.B.S.Marg, Mumbai?400001 
+???/Phone: 91 22 2266 0502  ? null? /Fax: 91 22 22660358  ?? ? ?? email: helpdoc@rbi.org.in
+December 20, 2013 
+RBI Working Paper Series 11:  
+Non Deliverable Forwards and Onshore Indian Rupee Market: 
+A Study on Inter-linkages 
+The Reserve Bank of India, today placed on its website, a Working Paper titled 
+Non Deliverable Forward (NDF) and Onshore Indian Rupee Market: A Study on Inter-
+“
+linkages” under the Reserve Bank of India Working Paper Series. The paper has been 
+authored by Rajan Goyal, Rajeev Jain and Soumasree Tewari. 
+In this paper, the authors have examined the inter-linkages of onshore segments 
+of India’s foreign exchange market with NDF market for Indian rupee (INR). Sample 
+period of the study from June 6, 2006 to April 3, 2013, has been divided into four sub-
+periods based on appreciating/depreciating trend in INR. To examine the direction of 
+transmission between onshore and NDF markets, vector error correction model and 
+ARCH/GARCH models are used.  
+Major findings of the paper are: 
+• A long term relationship exists between onshore and NDF markets and the 
+relationship is bidirectional as both markets adjust to any deviation from 
+equilibrium state. However, bidirectional relationship turns unidirectional from NDF 
+to onshore during the period when rupee comes under downward pressure.  
+• ARCH/GARCH models also confirm broadly the same dynamics of inter-
+relationship through cross-mean and volatility spillover between NDF and onshore 
+markets.  
+• While both mean and volatility spillover from NDF market to onshore market and 
+from onshore to NDF market are found to be statistically significant during the 
+period of rupee appreciation, the volatility spillover turns unidirectional from NDF 
+to onshore market during the period of rupee depreciation.  
+• Even though both onshore and offshore segments follow an equilibrium 
+relationship in the long-run, movements in NDF market seem to drive adjustment 
+in onshore market when rupee faces downward pressure.   
+*The Reserve Bank of India introduced the RBI Working Papers series in March 2011. 
+These papers present research in progress of the staff members of the Reserve Bank 
+and are disseminated to elicit comments and further debate. The views expressed in 
+these papers are those of authors and not those of the Reserve Bank of India. 
+Comments and observations may kindly be forwarded to authors. Citation and use of 
+such papers should take into account its provisional character. 
+ 
+Sangeeta Das 
+Press Release : 2013-2014/1248                                                    Director 
+?nullnull???nullnullnull??

@@ -1,0 +1,68 @@
+Government Dated Securities and Treasury Bills
+Mumbai on 21 December 2000
+1
+Total                         20.00     
+%  2002                     20.00      103.15        8.60       5 12.69 
+A. Government of India Dated Securities
+---------------------------------------------------------------------------
+       (1)                          (2)          (3)        (4)      (5)
+Rs.Crore) Nominal              (Days) in                                  (
+)    Period                                 (Face Value) Per Rs.100   (%pa
+Repo Repo Rate   Nomenclature                    Amount      Price *      
+---------------------------------------------------------------------------
+    (Other than with RBI)
+II.  REPO Transactions *
+Total                          0.25     
+2001                  0.25           91.1962         9.8430        13/12/
+Date : December 21, 2000          Contract 
+       (DD/MM/YYYY)
+   (iv) 364 Day Bills (Maturity-wise)
+                                           NIL
+       (DD/MM/YYYY)
+   (iii) 182 Day Bills (Maturity-wise)
+Total                          4.00     
+2001                  4.00           98.4103         8.7759        26/02/
+Date : December 21, 2000          Contract 
+       (DD/MM/YYYY)
+   (ii) 91 Day Bills (Maturity-wise)
+                                           NIL
+       (DD/MM/YYYY)
+i) 14 Day Bills (Maturity-wise)   (
+C. Treasury Bills
+Total                          0.0165     
+2001      0.0165         98.00          14.0412  11.00% MAHARASHTRA S.D. 
+Date : December 20, 2000          Contract 
+B. State Government Securities
+Total                          0.01188     
+%  2010                      0.01188        76.00          11.7899  7.50 
+Date : December 20, 2000          Contract 
+A.Government of India Dated Securities
+I.  Outright Transactions
+---------------------------------------------------------------------------
+Rs.Crore)    nominal in                                  (
+Rs.100   Indicative                                 (Face Value)     Per 
+Nomenclature                  Amount           Price *        YTM %   
+---------------------------------------------------------------------------
+at RBI, 
+Subsidiary General Ledger Account Transactions inFor previous issues of SGL Data please 
+2
+click here
+Date :  21 December 2000
+  # YTM(indicative) will depend upon assumed rate of inflation
+Repos  * Relate to the first leg of 
+---------------------------------------------------------------------------
+                                           NIL
+       (DD/MM/YYYY)
+   (iv) 364 Day Bills (Maturity-wise)
+                                           NIL
+      (DD/MM/YYYY)
+   (iii) 182 Day Bills (Maturity-wise)
+                                           NIL
+      (DD/MM/YYYY)
+   (ii) 91 Day Bills (Maturity-wise)
+                                           NIL
+      (DD/MM/YYYY)
+i) 14 Day Bills (Maturity-wise)   (
+C. Treasury Bills
+                                           NIL
+B. State Government Securities

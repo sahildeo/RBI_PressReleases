@@ -1,0 +1,43 @@
+Money Market Operations as on December 20, 2005
+(Amount in Rupees crore and
+rate in per cent per annum)
+I. Call Money Market
+(i) Volumes
+Banks Primary Total
+Dealers
+Borrowings 11,537.43 4,123.12 15,660.55
+Lendings 15,192.93 467.62 15,660.55
+Total 26,730.36 4,590.74 31,321.10
+(ii) Interest Rates Borrowings Lendings
+Weighted average rate 6.36 6.35
+Range of rates 4.50 – 6.68 4.50 – 6.68
+II. Notice Money Market
+ (i) Volumes
+Banks Primary Total
+Dealers
+Borrowings 2.00 12.36 14.36
+Lendings 14.36 0.00 14.36
+Total 16.36 12.36 28.72
+(ii) Interest Rates Borrowings Lendings
+Weighted average rate 5.49 5.48
+Range of rates 5.25 – 6.10 5.25 – 6.10
+III. Term Money Market
+Volume(Turnover) Range of Rates
+Borrowings 360.00 6.50 – 6.90
+Lendings 360.00 6.50 – 6.90
+Total 720.00
+IV. Standing Liquidity Facility Availed from RBI
+Amount (Outstanding) Rate of Interest
+870.08 At Repo Rate
+V. Liquidity Adjustment Facility
+Repo
+1 Day 2,885.00 6.25
+Amount Outstanding 2,885.00 0.00
+Reverse Repo
+1  Day 835.00 5.25
+Amount Outstanding 835.00 0.00
+VI.  RBI's OMO net sales(-)/purchases(+) 0.00
+VII. Scheduled Commercial Banks' Cumulative
+Cash Balances with RBI as on 17/12/2005 868,465.73
+Cash Balances with RBI as on 18/12/2005 969,817.61
+(For the reporting fortnight ending 23/12/2005)

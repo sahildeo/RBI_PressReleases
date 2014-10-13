@@ -1,0 +1,18 @@
+RBI Reference Rate for US $
+August 24, 2000
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.45.92 on 24.08.2000.
+Based on the Reference Rate for US dollar and middle rates of the cross currency quotes at 12 noon,
+Date
+1 USD 1 GBP 1 EURO
+23 August  2000 45.7600 67.6035 40.8065 42.63
+24 August  2000 45.9200 68.0764 41.3510 42.8900
+Note : The reference rate is based on 12 noon rates of a few select banks in Mumbai. The SDR-Rupee
+rate will be based on this rate.
+Ajit 
+Release : 2000-2001/286
+Press 
+Manager
+Prasad
+100 YEN
+CURRENCY
+below  : the exchange rates of major currencies against the rupee are given 

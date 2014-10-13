@@ -1,0 +1,67 @@
+  œÏ½¬¸ œÏˆÅ¸©¸›¸ú  PRESS RELEASE ? 
+ 
+ž¸¸£÷¸ú¡¸ ¹£{¸¨¸Ä  ?¸ÿˆÅ 
+RESERVE BANK OF INDIA 
+ 
+¬¸¿ ?¸¸£ ¢¨¸ž¸¸Š¸, ˆ½¿ÅÍú¡¸ ˆÅ¸¡¸¸Ä¥¸¡¸, ‡¬¸.¤¸ú.‡¬¸.Ÿ¸¸Š¸Ä, Ÿ¸º¿¤¸ƒÄ 400001 
+¨¸½¤¸¬¸¸ƒ’ À www.rbi.org.in/hindi 
+________________________________________________________________________________________________________
+Website : www.rbi.org.in 
+DEPARTMENT OF COMMUNICATION, Central Office, S.B.S. Marg, Mumbai 400001 
+ƒ-Ÿ¸½¥¸ emailÀ helpdoc@rbi.org.in 
+ûÅ¸½›¸/Phone: 91 22 2266 0502 û¾ÅÆ¬¸/Fax: 91 22 2270 3279 
+October 1, 2008 
+RBI to launch XBRL standards for Basel II Reporting System 
+at an international seminar next week 
+The Reserve Bank of India will launch the Basel II reporting system using eXtensible 
+Business Reporting Language (XBRL) through the existing Online Returns Filing System (ORFS). 
+The international seminar is being arranged on October 6 and 7, 2008 at College of Agricultural 
+Banking, Pune. The theme of the seminar will be "Use of XBRL for Developing Economies – Central 
+Banks' Perspective". Basel II Reporting System is the first reporting system based on XBRL. India is 
+possibly the first among the developing countries to introduce XBRL standard in its reporting system. 
+The system also makes use of latest technology tools, some of which are already built into its ORFS. 
+The Reserve Bank introduced the Online Returns Filing System (ORFS) for a few returns, 
+such as, Section 42(2) Form A return of the Reserve Bank of India Act, with the objective of 
+eliminating the need for paper based data submission. ORFS also removes submission of multiple 
+copies of the same return to various departments of the Reserve Bank of India, thus simplifying the 
+data reporting process both for the banks and for the Reserve Bank of India. 
+Select scheduled commercial banks are participating in implementation of the new capital 
+adequacy framework as per the Reserve Bank of India guidelines. These banks include all the 
+internationally active banks as well as some banks with only domestic presence. These banks would 
+be required to submit data on capital structure to the Reserve Bank as per Basel II Reporting System 
+on a quarterly basis. The return covers important parameters relating to the capital structure of banks. 
+XBRL is an electronic format for communication of business and financial data which is 
+revolutionising business reporting around the world.  The standardisation in-built in the XBRL 
+documents provides significant benefits in the preparation, analysis and communication of business 
+information.  This open standard offers cost savings, greater efficiency and improved accuracy and 
+reliability to all those involved in supplying or using financial data.  XBRL enhances the usability and 
+transparency of financial information reported under existing accounting standards, simplifies 
+disclosure, and allows users to communicate financial information more readily and accurately. The 
+XBRL global initiative is led by a non-profit organisation called XBRL International Inc. (XII), which has 
+members from various agencies from more than 164 countries. 
+On visualising multiple benefits of XBRL based reporting system, the Reserve Bank Governor 
+had constituted a High Level Steering Committee on XBRL-based Data Reporting System (Chairman: 
+Shri V Leeladhar, Deputy Governor). Besides regulatory and data collection departments of the 
+Reserve Bank, the High Level Steering Committee had members from Institute of Chartered 
+Accountants of India (ICAI), Indian Banks' Association, a few banks and representatives of the 
+software industry. 
+After substantial deliberations and a pilot study, the High Level Steering Committee decided 
+to introduce XBRL standards for Basel II Reporting System, Section 42(2) Form A return of the RBI 
+Act and financial statements. Of these, the Basel II Reporting System is being launched on October 6, 
+2008. The taxonomy for Basel II Reporting System is broadly aligned with the COREP framework of 
+the European Union. 
+The High Level Steering Committee decided to introduce XBRL standards for all major 
+returns being received from scheduled commercial banks to the Reserve Bank in phased manner. As 
+a part of XBRL implementation, the Committee reduced the number of returns to be submitted from 
+scheduled commercial banks to the Reserve Bank to 223 from 291. This was notified through RBI 
+Press Release on August 14, 2008.  2
+All related XBRL taxonomies and schemas will be put on the Reserve Bank website for the 
+benefit of data users and analysts. The XBRL reporting tools will be integrated into the existing Online 
+Returns Filing System. The long-term objective of the project is to build an XBRL-repository for the 
+banking sector. 
+The Reserve Bank identifies XBRL standards as a key development in the coming years, as 
+indicated in the Review of Financial Sector Technology Vision Document, published in June 2007. 
+Alpana Killawala 
+Chief General Manager 
+Press Release : 2008-2009/423 
+ 

@@ -1,0 +1,19 @@
+RBI Reference Rate for US $
+July 24, 2000
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.44.72 on 24.07.2000.
+Based on the Reference Rate for US dollar and middle rates of the cross currency quotes at 12 noon,
+Date
+1 USD 1 GBP 1 EURO
+45.0200 68.0680 42.0014 41.59
+44.7200 68.0079 41.8713 41.1700
+Note : The reference rate is based on 12 noon rates of a few select banks in Mumbai. The SDR-
+Rupee rate will be based on this rate.
+P.V. Sadanandan
+Release : 2000-01/123
+Press 
+. Manager Asstt
+24 July 2000
+21 July 2000
+100 YEN
+CURRENCY
+below  : the exchange rates of major currencies against the rupee are given 

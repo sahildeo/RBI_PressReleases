@@ -1,0 +1,53 @@
+Government Dated Securities and Treasury Bills
+at RBI, Mumbai on 30 September 2000
+1
+       (1)                          (2)          (3)        (4)      (5)
+Rs.Crore) Nominal              (Days) in                                  (
+)    Period                                 (Face Value) Per Rs.100   (%pa
+Repo Repo Rate   Nomenclature                    Amount      Price *      
+---------------------------------------------------------------------------
+    (Other than with RBI)
+II.  REPO Transactions *
+Total                          5.00     
+2000                  5.00           99.4523        10.0230        19/10/
+Date : September 29, 2000          Contract 
+       (DD/MM/YYYY)
+   (iv) 364 Day Bills (Maturity-wise)
+                                           NIL
+       (DD/MM/YYYY)
+   (iii) 182 Day Bills (Maturity-wise)
+Total                          7.00     
+2000                  7.00           99.7540         8.9765        09/10/
+Date : September 29, 2000          Contract 
+       (DD/MM/YYYY)
+   (ii) 91 Day Bills (Maturity-wise)
+                                           NIL
+       (DD/MM/YYYY)
+i) 14 Day Bills (Maturity-wise)   (
+C. Treasury Bills
+                                           NIL
+B. State Government Securities
+Total                         53.00     
+%  2008                      0.30           99.85          11.4251 11.40 
+Date : September 30, 2000          Contract 
+%  2008                     10.00           99.65          11.4644 11.40 
+%  2008                     25.00           99.65          11.4644 11.40 
+%  2008                     10.00           99.66          11.4624 11.40 
+%  2008                      5.00           99.73          11.4487 11.40 
+%  2001                      2.70          102.75           9.2759 13.75 
+Date : September 29, 2000          Contract 
+A.Government of India Dated Securities
+I.  Outright Transactions
+---------------------------------------------------------------------------
+Rs.Crore)    nominal in                                  (
+Rs.100   Indicative                                 (Face Value)     Per 
+Nomenclature                  Amount           Price *        YTM %   
+---------------------------------------------------------------------------
+Subsidiary General Ledger Account Transactions inFor previous issues of SGL Data please 
+2
+click here
+Date :  30 September 2000
+YTM(indicative) will depend upon assumed rate of inflation  # 
+Repos  * Relate to the first leg of 
+                                           NIL
+---------------------------------------------------------------------------

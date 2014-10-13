@@ -1,0 +1,18 @@
+RBI Reference Rate for US $ and Euro
+June 18, 2002
+The Reserve Bank of India’s Reference Rate for the US dollar is
+Rs.48.9900 and the Reference Rate for Euro is Rs.46.3600 on June 18, 2002. The
+corresponding rates for the previous day (June 17, 2002) were Rs.49.0000 and
+Rs.46.3400 respectively. Based on the Reference Rate for US dollar and middle
+rates of the cross currency quotes at 12 noon, the exchange rates of GBP and
+Japanese Yen against the rupee are:
+Date Currency
+1 GBP 100 YEN
+June 17, 2002
+72.3510 39.4600
+June 18, 2002 72.4562 39.3300
+Note : The reference rate is based on 12 noon rates of a few select banks in  Mumbai.
+The SDR-Rupee rate will be based on this rate.
+N.S.D. Lobo
+Asst. Manager
+Press Release: 2001-02/1390

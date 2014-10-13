@@ -1,0 +1,31 @@
+Liquidity Adjustment Facility : Auction Results
+December 16, 2002
+The results of the RBI repo/reverse repo auctions held on December 16, 2002 are :
+(Amount in face value in Rs. crore)
+A. Daily Repo / Reverse Repo Repo Auction (Sale of Reverse Repo
+securities by RBI) Auction
+(Purchase of
+securities by RBI)
+1. Applications received for
+one day repo period:
+(i) Number 15 Nil
+(ii) Amount 8975 N.A.
+2. Applications accepted for
+one day repo period:
+(i) Number 15 N.A.
+(ii) Amount 8975 N.A.
+(iii) Cut-off Rate (per cent) 5.50 N.A.
+(iv) Weighted Average Cut-off Rate 5.50 N.A.
+(per cent)
+ 
+B. Fortnightly Repo Repo Auction
+(Sale of Securities
+by RBI)
+1. Applications received for 11 day Repo :
+(i) Number 6
+(ii) Amount 3480
+2. Applications accepted for 11 day Repo :
+(i) Number 6 (Partial)
+(ii) Amount 2784
+(iii) Cut-off rate (per cent) 5.50
+(iv) Weighted Average Cut-off Rate (per cent) 5.50

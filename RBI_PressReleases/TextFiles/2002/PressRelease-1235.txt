@@ -1,0 +1,16 @@
+RBI Reference Rate for US $
+April 10,  2002
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.48.90 and the
+Reference Rate for Euro is Rs.43.10 on April 10, 2002.  The corresponding rates for the
+previous day (April 9, 2002) were Rs. 48.94 and Rs. 42.73 respectively.  Based on the
+Reference Rate for US dollar and middle rates of the cross currency quotes at 12 noon,
+the exchange rates of GBP and Japanese Yen against the rupee are  :
+Date Currency
+1 GBP 100 YEN
+April 9, 2002 70.0625 37.1200
+April 10, 2002 70.2889 37.4900
+Note : The reference rate is based on 12 noon rates of a few select banks in Mumbai. The
+SDR-Rupee rate will be based on this rate.
+Ajit Prasad
+Manager
+Press Release : 2001-2002/1134

@@ -1,0 +1,15 @@
+RBI Reference Rate for US $
+October 16,  2001
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.48.0400 on
+16.10.2001. Based on the Reference Rate for US dollar and middle rates of the cross
+currency quotes at 12 noon, the exchange rates of major currencies against the rupee are
+given below  :
+Date CURRENCY
+1 USD 1 GBP 1 EURO 100 YEN
+15 October, 2001 48.0100 69.6889 43.8163 39.68
+16 October, 2001 48.0400 69.5283 43.4930 39.7500
+Note : The reference rate is based on 12 noon rates of a few select banks in Mumbai. The
+SDR-Rupee rate will be based on this rate.
+P.V. Sadanandan
+Assistant Manager
+Press Release : 2001-2002/476

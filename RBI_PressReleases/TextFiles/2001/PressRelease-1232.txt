@@ -1,0 +1,22 @@
+RBI Reference Rate for US $
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.46.81 on
+02.05.2001. Based on the Reference Rate for US dollar and middle rates of the cross
+currency quotes at 12 noon, the exchange rates of major currencies against the rupee are
+given 
+Date
+1 USD 1 GBP 1 EURO
+46.8600 67.2605 41.7241 37.84
+46.8100 67.1677 41.8201 38.3800
+Note : Mumbai. The
+SDR-Rupee rate will be based on this rate.
+P.V. Sadanandan
+Release : 2000-01/149
+4
+Press 
+Asst. Manager
+ The reference rate is based on 12 noon rates of a few select banks in 
+02 May, 2001
+30 April, 2001
+100 YEN
+CURRENCY
+below  :

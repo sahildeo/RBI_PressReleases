@@ -1,0 +1,18 @@
+RBI Reference Rate for US $ and Euro
+October 3, 2003
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.45.4600 and the
+Reference Rate for Euro is Rs.53.1600 on October 3, 2003. The corresponding rates for the
+previous day (October 1, 2003 ) were Rs.45.6800 and Rs.53.3500 respectively. Based on the
+Reference Rate for US dollar and middle rates of the cross currency quotes at 12 noon, the
+exchange rates of GBP and Japanese Yen against the rupee are:
+Date Currency
+1 GBP 100 YEN
+75.9316 41.08
+October 1, 2003
+75.9227 41.0500
+October 3, 2003
+Note : The reference rate is based on 12 noon rates of a few select banks in Mumbai.  The
+SDR-Rupee rate will be based on this rate.
+Ajit Prasad
+Manager
+Press Release : 2003-2004/460

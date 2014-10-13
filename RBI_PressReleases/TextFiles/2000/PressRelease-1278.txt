@@ -1,0 +1,19 @@
+RBI Reference Rate for US $
+May 31, 2000
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.44.58 on
+31.05.2000. Based on the Reference Rate for US dollar and middle rates of the cross currency
+Date
+1 USD 1 GBP 1 EURO
+44.5800 66.7474 41.4839 41.70
+44.5800 66.5869 41.3992 41.8100
+Note : The reference rate is based on 12 noon rates of a few select banks in Mumbai. The
+SDR-Rupee rate will be based on this rate.
+P. V. Sadanandan
+Release : 1999-2000/1605
+Press 
+. Manager Asstt
+31 May 2000
+30 May  2000
+100 YEN
+CURRENCY
+below  : quotes at 12 noon, the exchange rates of major currencies against the rupee are given 

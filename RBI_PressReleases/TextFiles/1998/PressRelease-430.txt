@@ -1,0 +1,17 @@
+RBI Reference Rate for US $
+October 12, 1998
+   
+few select banks in Mumbai. The SDR-rupee rate will be based on this rate.
+   
+at 12.00 noon, the exchange rates of US dollar, Pound Sterling, DEM and Yen against Rs.100 
+:
+      Date Currency per Rs. 100 (Middle Rates)
+ GBP DEM
+October 12, 1998 2.3607 1.3887 3.8685 273.548
+ 
+USDon
+Yen
+are
+  Based on the RBI Reference Rate for US dollar and middle rates of the cross currency quotes
+12.10.1998 as against Rs.42.36 on 9.10.1998. The reference rate is based on 12 noon rates of a
+  The Reserve Bank of India’s Reference Rate for the US dollar today is Rs.42.36 

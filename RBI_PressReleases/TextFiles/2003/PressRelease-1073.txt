@@ -1,0 +1,22 @@
+Liquidity Adjustment Facility : Auction Results
+The results of the RBI repo/reverse repo auctions held on May 9, 2003 are :
+Items
+Repo Auction Reverse Repo Auction
+(Sale of securities (Purchase of securities
+by RBI) by RBI)
+1. Applications received for
+three day repo period:
+(i) Number 37 Nil
+(ii) Amount 20020 NA
+(Face value in Rs. crore)
+2. Applications accepted for
+three day repo period:
+(i) Number 37 Nil
+(ii) Amount 20020 NA
+(Face Value in Rs.crore)
+(iii) Cut-off Rate (per cent) 5.00 NA
+3. Weighted average Cut-off Rate (per 5.00 NA
+cent)
+P. V. Sadanandan
+Manager
+Press Release : 2002-2003/1141

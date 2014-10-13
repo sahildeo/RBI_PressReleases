@@ -1,0 +1,20 @@
+RBI Reference Rate for US $
+April 28, 2000
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.43.66 on 28.04.2000 as
+against Rs.43.66 on 27.04.2000. The reference rate is based on 12 noon rates of a few select banks
+in Mumbai. The SDR-rupee rate will be based on this rate.
+Based on the RBI Reference Rate for US dollar and middle rates of the cross currency quotes
+at 12 noon, the exchange rates of US dollar, Pound Sterling, EURO and Yen against Rs.100 are :
+Date
+GBP
+2.2915 1.4489 2.4326 240.260
+2.2904 1.4579 2.5135 243.804
+P. V. Sadanandan
+Release : 1999-2000/1447
+USD
+Press 
+. Manager Asstt
+28 April 2000
+21 April  2000
+YEN EURO
+(Middle Rates) Currency per Rs.100 

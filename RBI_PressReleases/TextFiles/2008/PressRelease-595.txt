@@ -1,0 +1,56 @@
+  œÏ½¬¸ œÏˆÅ¸©¸›¸ú  PRESS RELEASE ? 
+ 
+ž¸¸£÷¸ú¡¸ ¹£{¸¨¸Ä  ?¸ÿˆÅ 
+RESERVE BANK OF INDIA  
+ 
+¬¸¿ ?¸¸£ ¢¨¸ž¸¸Š¸, ˆ½¿ÅÍú¡¸ ˆÅ¸¡¸¸Ä¥¸¡¸, ‡¬¸.¤¸ú.‡¬¸.Ÿ¸¸Š¸Ä, Ÿ¸º¿¤¸ƒÄ 400001 
+¨¸½¤¸¬¸¸ƒ’ À www.rbi.org.in/hindi 
+________________________________________________________________________________________________________
+Website : www.rbi.org.in 
+DEPARTMENT OF COMMUNICATION, Central Office, S.B.S. Marg, Mumbai 400001 
+ƒ-Ÿ¸½¥¸ emailÀ helpdoc@rbi.org.in 
+ûÅ¸½›¸/Phone: 91 22 2266 0502 û¾ÅÆ¬¸/Fax: 91 22 2270 3279 
+ 
+September 29, 2008 
+ 
+National Electronic Clearing Service inaugurated 
+ 
+Shri V.Leeladhar, Deputy Governor, Reserve Bank of India today inaugurated the 
+National Electronic Clearing Service (NECS) at a function at the Reserve Bank's 
+National Clearing Centre (NCC), Mumbai. 
+ 
+The service aims to centralise the Electronic Clearing Service (ECS) operation and bring 
+in uniformity and efficiency to the system. ECS was introduced in the early nineties and 
+is operational at 74 locations at present, facilitating easy payments and collections for 
+repetitive and bulk transactions.  On an average around 20 million ECS transactions are 
+processed each month. Presently, ECS system functions in a decentralised manner 
+requiring users to prepare separate set of ECS data centre-wise. Users are required to 
+have tie-up with local sponsor banks for presenting ECS file to each ECS Centre.  
+ 
+NECS (Credit) would facilitate multiple credits to beneficiary accounts destination branch 
+at participating centre against a single debit of the account of a user with the sponsor 
+bank. NECS (Debit) would facilitate multiple debits to destination account holders 
+against single credit to user account. The system has a pan-India characteristic 
+leveraging on Core Banking Solutions (CBS) of member banks. This would facilitate all 
+CBS bank branches to participate in the system, irrespective of their locations. 
+ 
+In the new set-up, users have to prepare one consolidated NECS file and submit it 
+centrally to the NCC, Nariman Point, Mumbai, through their sponsor banks. The sponsor 
+banks would make use of the web-server provided for the purpose. The web-server also 
+has the facility to get on-line data validation so that error free data could be uploaded for 
+processing. The files can be uploaded up to the cut-off time one day prior to the 
+settlement day by sponsor banks thus bringing down further the lead time required for 
+processing. The returns also would get processed on the settlement day itself thus on 
+the third day the users would have the status of the transactions. 
+ 
+As on date 25,000 branches of 50 banks are participating in NECS operations and other 
+banks are expected to join in course of time.  
+ 
+In first phase, it is proposed to introduce the NECS (Credit). The NECS (Debit) would be 
+introduced subsequently, based on the experience and feedback received from member 
+banks.  
+ 
+Alpana Killawala 
+Chief General Manager 
+ 
+Press Release: 2008-2009/410 

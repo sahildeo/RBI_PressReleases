@@ -1,0 +1,45 @@
+ 
+ 
+22 Mar 1999 
+ 
+Reserve Bank of India - Foreign Exchange Data from 08/03/1999 to 12/03/1999 
+ 
+All Figures Are in USD Millions 
+ 
+ 
+Purchase 
+MERCHANT INTER BANK 
+Forward Forward 
+Position  FCY/INR Cancell FCY/FCY Cancell FCY/INR FCY/FCY 
+Date Spot Forward ation Spot Forward ation Spot Swap Forward Spot Swap Forward 
+ 
+61 533 
+08/03/1999 273 76 55 21 40 480 712 91 234 29 
+  
+48 455 
+09/03/1999 229 69 59 13 31 486 671 112 152 22 
+  
+40 571 
+10/03/1999 268 50 58 33 44 565 548 258 214 21 
+  
+29 21 542 615 43 500 
+11/03/1999 258 80 20 16 197 12 
+      
+65 60 519 717 65 605 
+12/13/1999 249 91 74 19 224 24 
+      
+Sales 
+08/03/1999 348 91 13 20 61 38 434 781 108 542 236 28 
+             
+09/03/1999 196 110 47 11 44 26 450 658 116 468 149 24 
+             
+10/03/1999 192 132 26 26 41 43 565 587 221 552 204 21 
+             
+11/03/1999 206 126 18 9 27 26 513 613 86 534 185 12 
+             
+12/03/1999 229 207 36 18 76 60 521 840 62 619 217 25 
+             
+ 
+ 
+ 
+ 

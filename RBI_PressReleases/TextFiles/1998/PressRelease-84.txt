@@ -1,0 +1,37 @@
+banks and financial institutions in tackling the problem of Year 2000.
+are expected to be Y2K compliant by December 1998.
+(Alpana Killawala)
+Press Release 1998-99/789
+General Manager
+As per the reports available, over 70 per cent of the Commercial Banks and their subsidiaries
+the Reserve Bank of India.
+institutions would review the progress bimonthly. A bimonthly report is submitted by them to
+turn report to top managements of banks. The boards of directors of each bank and financial
+up in each bank. The Core Groups report to regional/zonal Offices and the zonal offices in
+Banks and financial institutions are required to monitor the progress through a core group set
+Department of Electronics are also invited to the Committee.
+Bank, IBA, NIBM and few selected banks. Representatives of Ministry of Finance and
+Bank, Chief General Mangers of regulatory and supervisory departments of the Reserve
+problem. The other members of the committee are three Executive Directors of the Reserve
+banks and financial institutions, non-banking financial companies in the areas of Y2K
+(Shri S.P.Talwar) to monitor bimonthly the progress made by the Reserve Bank of India,
+The Reserve Bank of India has constituted a high level committee under its Deputy Governor
+replaced and will be Y2K compliant.
+operated by the Reserve Bank of India which are at present not Y2K compliant, are being
+machines. The major MICR cheque processing systems at the four metropolitan centres
+to repair, replace or abandon machines depending on the test results by Y2K version of the
+financial institutions so that they could test each and every computer. They were also advised
+Grindlays, Citibank and State Bank of India. Test kits were made available to the banks and
+(NIBM), Tata Consultancy Services, Tata Infotech, Standard Chartered Bank, ANZ
+(IBA) and the Reserve Bank of India through National Institute for Bank Management
+the Bank of England, the FED, Presentations were organised by Indian Banks' Association
+subject received from a number to sources including the Bank for International Settlement,
+This was followed by making available to banks and financial institutions material on the
+the systems are Y2K compliant or not.
+application software that they possess and do the scoping and diagnostics to assess whether
+banks to prepare a detailed inventory of the hardware, operating system software and
+institutions way back in September 1996 when a detailed circular was issued advising the
+The Reserve Bank of India initiated a process of creation of awareness in banks and financial
+and Financial Sector". The publication brings out clearly the broad approach adopted by
+The Reserve Bank of India has printed a booklet on "Year 2000 Preparations in the Banking
+RBI Booklet on Y2K

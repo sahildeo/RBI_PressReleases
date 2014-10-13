@@ -1,0 +1,22 @@
+RBI Reference Rate for US $
+,  2001
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.47.14 on
+17.07.2001. Based on the Reference Rate for US dollar and middle rates of the cross currency
+Date
+1 1 GBP 1 EURO
+47.1600 65.9627 40.3359 37.75
+47.1400 65.7674 40.0525 37.5600
+Note :
+SDR-Rupee rate will be based on this rate.
+P.V. Sadanandan
+Release : 2001-02/68
+USD
+Press 
+Asst. Manager
+ The reference rate is based on 12 noon rates of a few select banks in Mumbai. The
+17 July, 2001
+16 July, 2001
+100 YEN
+CURRENCY
+below  : quotes at 12 noon, the exchange rates of major currencies against the rupee are given 
+July 17

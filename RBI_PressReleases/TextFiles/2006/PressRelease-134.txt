@@ -1,0 +1,34 @@
+FINANCIAL MARKETS DEPARTMENT
+Money Market Operations
+As on 01-December-06
+(Amount in Rupees crore, Rate in Per cent)
+A. MONEY MARKETS
+Weighted
+ Volume Avg.Rate Range
+(One Leg)  
+   
+I. Call Money 227.22 6.00 5.60-6.20
+ 
+II. Notice Money 15,399.83 6.15 5.75-6.30
+ 
+III. Term Money 750.00 - 6.75-8.40
+ 
+IV. CBLO @ (1 day) 618.70 5.64 5.45-6.00
+ 
+V. Market Repo (1 day) 63.22 6.00 5.75-6.05
+B. RBI OPERATIONS
+   
+  Amount Outstanding Rate
+VI. Standing Liquidity Facility availed from RBI 80.00 7.25
+  
+VII. Liquidity Adjustment Facility
+  
+        (i) Repo (3 Days) 0.00 7.25
+  
+        (ii) Reverse Repo (3 Days) 24,530.00 6.00
+C. RESERVE POSITION 
+VIII. Scheduled Commercial Bank's Cumulative Cash
+Balances with RBI as on 29/11/2006 661211.37
+for the fortnight ending       8/12/2006
+@ Based on Provisional Data provided by Clearing Corporation of India Ltd.
+ - Not Applicable / No Transaction

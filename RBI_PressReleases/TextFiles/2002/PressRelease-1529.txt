@@ -1,0 +1,19 @@
+Liquidity Adjustment Facility : Auction Results
+February 8, 2002
+The results of the RBI Repo/Reverse Repo auctions held on February 8, 2002 are :
+Item Repo Auction Reverse Repo Auction
+(Sale of securities (Purchase of securities
+by RBI) by RBI)
+1. Applications received for
+three day repo period:
+(i) Number 4 1
+(ii) Amount 650 15
+(Face value in Rs. crore)
+2. Applications accepted for
+three day repo period:
+(i) Number 4 1
+(ii) Amount 650 15
+(Face Value in Rs.crore)
+(iii) Cut-off Rate (per cent) 6.50 8.50
+3. Weighted average Cut-off Rate 6.50 8.50
+(per cent)

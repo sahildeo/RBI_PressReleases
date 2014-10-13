@@ -1,0 +1,45 @@
+ 
+? ?  ??????  PRESS RELEASE 
+ 
+?????? ????  ?? ? ? 
+RESERVE BANK OF INDIA  
+? ???  ?????,  ????  ???? ?? ?? ,  ??. ??. ??. ???, ??  ????400001 
+? ???? ? : www.rbi.org.in/hindi 
+_____________________________________________________________________________________________________________________
+Website : www.rbi.org.in 
+DEPARTMENT OF COMMUNICATION, Central Office, S.B.S.Marg, Mumbai?400001 
+???/Phone: 91 22 2266 0502  ? ???/Fax: 91 22 22660358  ?? ? ?? email: helpdoc@rbi.org.in
+                                                                     
+April 20, 2012 
+RBI Working Paper Series: 
+Asset Pricing Model for Inefficient Markets:  
+Empirical Evidence from Indian Market 
+The Reserve Bank of India today placed on its website a Working Paper for 
+the month of April 2012 titled “Asset Pricing Model for Inefficient Markets: empirical 
+evidence from the Indian market”. The Working Paper has been written by              
+Dr. Debasish Majumder. 
+The paper provides a direction for incorporating market sentiments in the 
+domain of standard models of asset pricing. The market sentiment is unobservable. 
+However, it can be defined as the stationary departure of the market return from its 
+fair value. This part of the market return is explained by the exuberance or 
+pessimism by investors to certain information. Any autocorrelation that is observed in 
+the market return might be the result of possible bullish/bearish responses by 
+investors to market information. 
+Often, Indian equity market returns are serially correlated for at least one lag. 
+Unfortunately, ‘mispricing’ might be a common outcome of application of any familiar 
+asset pricing models for these markets because these models ignore the qualitative 
+aspects of human decision making. To widen the applicability of these models 
+ranging from an efficient to an inefficient market, the author proposed a 
+transformation through which the original market would be transformed to a 
+hypothetical market which is relatively efficient. The empirical study for Indian 
+markets reveals that hypothetical market returns are, in general, not serially 
+dependent and so meet the prerequisites of applying a standard asset-pricing model. 
+Any conventional bond or stock pricing model could, therefore, be efficiently 
+manipulated for those returns. The model is applicable for a ‘less than’ efficient 
+market and, therefore, may be a useful addition in investors’ toolkits. 
+ 
+         Ajit Prasad 
+Press Release : 2011-2012/1678                           Assistant General Manager 
+ 
+ 
+??????????
